@@ -34,7 +34,7 @@ neru-icon-classic-theme
 
 ## Установка / Installation
 
-`git clone https://github.com/chistota/neru-icon-classic-theme.git /usr/share/icons/`
+`git clone https://github.com/basigur/neru-icon-classic-theme.git /usr/share/icons/`
 
 ## Сообщество / Community
 * РОСПО Дизайн-студия
