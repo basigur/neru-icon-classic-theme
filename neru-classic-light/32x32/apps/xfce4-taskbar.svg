@@ -13,7 +13,7 @@
    version="1.1"
    id="svg18"
    sodipodi:docname="xfce4-taskbar.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -37,25 +37,28 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview20"
      showgrid="false"
      inkscape:zoom="8.375"
      inkscape:cx="-6.6865672"
      inkscape:cy="16"
-     inkscape:current-layer="svg18" />
+     inkscape:current-layer="g4526"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
   <g
      id="g4526"
      transform="translate(52.298828,7.522461)">
     <path
        id="path4516"
        d="m -22.197266,15.642578 h -28.203125 v 1.361328 c 0,3.088651 2.487521,5.576172 5.576172,5.576172 h 17.052735 c 3.08865,0 5.574218,-2.487521 5.574218,-5.576172 z"
-       style="opacity:1;fill:#253951;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#334b54;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="rect4497-3-3"
        d="m -44.824219,-5.625 c -3.088651,0 -5.576172,2.4875211 -5.576172,5.57617188 V 15.642578 h 28.203125 V -0.04882812 c 0,-3.08865078 -2.485568,-5.57617188 -5.574218,-5.57617188 z"
-       style="opacity:1;fill:#4ab3e4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#6ab8d7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g

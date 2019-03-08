@@ -13,7 +13,7 @@
    viewBox="0 0 16 16"
    id="svg7"
    sodipodi:docname="folder-mega.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7" />
   <defs
@@ -54,7 +54,7 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;fill:currentColor;stroke-width:0.83116883"
+     style="color:#5c616c;fill:#1e333d;stroke-width:0.83116883;fill-opacity:1"
      class="ColorScheme-Text"
      d="M 7.9999998,2.1818182 C 4.7867011,2.1818182 2.181818,4.7867013 2.181818,8 c 0,3.213299 2.6048831,5.818182 5.8181818,5.818182 3.2132992,0 5.8181822,-2.604883 5.8181822,-5.818182 0,-3.2132987 -2.604883,-5.8181818 -5.8181822,-5.8181818 z M 4.6753245,4.6753247 h 1.6623377 v 0 0 L 7.9999998,7.1688312 9.6623375,4.6753247 H 11.324675 V 11.324676 H 9.6623375 V 8 L 7.9999998,9.6623378 6.3376622,8 v 3.324676 H 4.6753245 Z"
      id="path5"

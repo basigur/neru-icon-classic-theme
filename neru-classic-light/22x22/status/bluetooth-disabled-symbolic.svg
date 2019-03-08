@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="bluetooth-disabled-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="506"
+     inkscape:window-y="360"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="opacity:0.3;fill:#5c616c"
+     style="opacity:0.3;fill:#1e333d;fill-opacity:1"
      d="M 11,3 C 7.95,3 5.5,5.68 5.5,9 v 4 c 0,3.32 2.45,6 5.5,6 3.05,0 5.5,-2.68 5.5,-6 V 9 C 16.5,5.68 14.05,3 11,3 Z M 10.5,4.29 14.74,8.53 11.8,11 14.74,13.47 10.5,17.71 V 12.09 L 8.07,14.13 7.43,13.37 10.25,11 7.43,8.63 8.07,7.87 10.5,9.91 Z m 1,2.42 v 3.24 l 1.76,-1.48 z m 0,5.34 v 3.24 l 1.76,-1.76 z"
      id="path2"
      inkscape:connector-curvature="0" />

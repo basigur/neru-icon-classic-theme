@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="my-caffeine-on-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,23 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="10.471636"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="g4488" />
   <g
      id="g4488"
      transform="translate(3,3)">
     <path
        id="path2"
        d="M 7.1934,0 C 6.0952,1.38 5.766,1.57 6.1621,2.45 6.5212,3.25 7.449,3.15 6.9824,5 7.7488,4.1 8.3577,3.46 7.7559,2.54 7.1437,1.6 6.8084,1.53 7.1934,0 Z M 10.193,0 C 9.0952,1.38 8.766,1.57 9.1621,2.45 9.5212,3.25 10.449,3.15 9.9824,5 10.749,4.1 11.358,3.46 10.756,2.54 10.144,1.6 9.8084,1.53 10.193,0 Z m 3,0 c -1.098,1.38 -1.427,1.57 -1.031,2.45 0.359,0.8 1.287,0.7 0.82,2.55 C 13.749,4.1 14.358,3.46 13.756,2.54 13.144,1.6 12.808,1.53 13.193,0 Z M 4,6 C 1.7909,6 0,7.79 0,10 0,12.21 1.7909,14 4,14 4.2425,14 4.4843,13.98 4.7227,13.93 5.462,15.48 6.958,16 10,16 16,16 16,14 16,6 Z M 4,8 H 4.0078 C 4.0194,9.6 4.06,10.94 4.2031,11.99 4.1357,11.99 4.0679,12 4,12 2.8954,12 2,11.1 2,10 2,8.9 2.8954,8 4,8 Z"
-       style="fill:#5c616c"
+       style="fill:#1e333d;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="view-wrapped-rtl-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,23 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1111"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="7.923697"
+     inkscape:cx="7.9236972"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="g4488" />
   <g
      id="g4488"
      transform="translate(4,3)">
     <path
        id="path2"
        d="M 6,1 C 4.338,1 3,2.338 3,4 V 6 H 1 L 4,10 7,6 H 5 V 4 C 5,3.446 5.446,3 6,3 h 4 c 0.554,0 1,0.446 1,1 v 8 c 0,0.554 -0.446,1 -1,1 H 7 v 2 h 3 c 1.662,0 3,-1.338 3,-3 V 4 C 13,2.338 11.662,1 10,1 Z"
-       style="fill:#5c616c"
+       style="fill:#1e333d;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

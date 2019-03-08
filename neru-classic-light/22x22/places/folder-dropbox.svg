@@ -13,7 +13,7 @@
    viewBox="0 0 16 16"
    id="svg7"
    sodipodi:docname="folder-dropbox.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="749"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11.838983"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7" />
   <defs
@@ -54,7 +54,7 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;fill:currentColor;stroke-width:0.83116877"
+     style="color:#5c616c;fill:#1e333d;stroke-width:0.83116877;fill-opacity:1"
      class="ColorScheme-Text"
      d="M 10.493506,2.9991898 7.9999996,4.6615275 11.324675,6.3238649 13.818182,4.6615275 Z M 11.324675,6.3238649 7.9999996,8.4017871 10.493506,10.064291 13.818182,8.4017871 Z M 5.5064933,3.0138183 2.181818,4.6761559 4.638005,6.3141404 2.181818,8.361226 5.5064933,10.023563 7.9999996,8.361226 4.7240309,6.3141404 7.9999996,4.6761559 Z M 7.9999996,9.2605503 5.5064933,10.922888 4.6753244,10.507303 v 0.831169 l 3.3246752,1.662338 3.3246754,-1.662338 v -0.831169 l -0.831169,0.415585 z"
      id="path5"

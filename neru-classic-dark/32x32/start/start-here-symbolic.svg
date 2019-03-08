@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
@@ -12,7 +13,7 @@
    version="1.1"
    id="svg20"
    sodipodi:docname="start-here-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -26,7 +27,29 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs24" />
+     id="defs24">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient825">
+      <stop
+         style="stop-color:#a6c4d2;stop-opacity:1"
+         offset="0"
+         id="stop821" />
+      <stop
+         style="stop-color:#d3dae3;stop-opacity:1"
+         offset="1"
+         id="stop823" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient825"
+       id="linearGradient827"
+       x1="-4.6610169"
+       y1="36.661018"
+       x2="20.661016"
+       y2="11.338983"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,21 +59,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="966"
+     inkscape:window-width="567"
+     inkscape:window-height="424"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-5.5932203"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="7.8104265"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="1009"
+     inkscape:window-y="150"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg20" />
   <g
      id="g4512"
      transform="translate(8,-8.0000002)"
-     style="fill:#d3dae3;fill-opacity:1">
+     style="fill:url(#linearGradient827);fill-opacity:1">
     <rect
        id="rect2"
        ry="1.2661017"
@@ -59,7 +82,7 @@
        x="-4.6610169"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
     <rect
        id="rect4"
        ry="1.2661017"
@@ -68,7 +91,7 @@
        x="5.4677968"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
     <rect
        id="rect6"
        ry="1.2661017"
@@ -77,7 +100,7 @@
        x="15.59661"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
     <rect
        id="rect8"
        ry="1.2661017"
@@ -86,7 +109,7 @@
        x="-4.6610169"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
     <rect
        id="rect10"
        ry="1.2661017"
@@ -95,7 +118,7 @@
        x="5.4677968"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
     <rect
        id="rect12"
        ry="1.2661017"
@@ -104,7 +127,7 @@
        x="15.59661"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
     <rect
        id="rect14"
        ry="1.2661017"
@@ -113,7 +136,7 @@
        x="-4.6610169"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
     <rect
        id="rect16"
        ry="1.2661017"
@@ -122,7 +145,7 @@
        x="5.4677968"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
     <rect
        id="rect18"
        ry="1.2661017"
@@ -131,6 +154,6 @@
        x="15.59661"
        height="5.0644069"
        width="5.0644069"
-       style="fill:#d3dae3;stroke-width:2.53220344;fill-opacity:1" />
+       style="fill:url(#linearGradient827);fill-opacity:1;stroke-width:2.53220344" />
   </g>
 </svg>

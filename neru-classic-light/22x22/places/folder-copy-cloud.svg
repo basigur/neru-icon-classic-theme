@@ -13,7 +13,7 @@
    viewBox="0 0 16 16"
    id="svg7"
    sodipodi:docname="folder-copy-cloud.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="749"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7" />
   <defs
@@ -54,7 +54,7 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;fill:currentColor;stroke-width:0.72727275"
+     style="color:#5c616c;fill:#1e333d;stroke-width:0.72727275;fill-opacity:1"
      class="ColorScheme-Text"
      d="M 12.570909,3.6363636 9.8705453,7.3764364 11.325091,7.9999999 Z M 4.2599271,5.7144728 2.181818,7.3764364 4.8834907,6.9616727 6.5454544,12.363636 7.5837816,11.740363 13.818182,12.363636 11.740364,8.4162183 10.701818,8.2074182 7.169018,10.285818 5.5071271,6.1292363 Z M 8.416218,7.3764364 6.7528725,8.4162183 7.3764362,9.8705454 10.285818,8.2074182 9.2471271,7.3764364 Z"
      id="path5"

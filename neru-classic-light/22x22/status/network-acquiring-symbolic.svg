@@ -12,7 +12,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="network-acquiring-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -36,46 +36,46 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg12" />
+     inkscape:current-layer="g833" />
   <g
      id="g833"
      transform="translate(2.75,3.5)">
     <path
        id="path2"
        d="M 10,0 V 2 H 7 v 3 h 7.889 L 15.5,4.5 Z"
-       style="opacity:0.3;fill:#5c616c"
+       style="opacity:0.3;fill:#1e333d;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="path4"
        d="m 1,11 5,4 v -2 h 3 v -2 z"
-       style="opacity:0.3;fill:#5c616c"
+       style="opacity:0.3;fill:#1e333d;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <circle
        id="circle6"
        r="2"
        cy="8"
        cx="3"
-       style="fill:#5c616c" />
+       style="fill:#1e333d;fill-opacity:1" />
     <circle
        id="circle8"
        r="2"
        cy="8"
        cx="8"
-       style="fill:#5c616c" />
+       style="fill:#1e333d;fill-opacity:1" />
     <circle
        id="circle10"
        r="2"
        cy="8"
        cx="13"
-       style="fill:#5c616c" />
+       style="fill:#1e333d;fill-opacity:1" />
   </g>
 </svg>

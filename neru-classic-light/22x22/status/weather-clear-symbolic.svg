@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="weather-clear-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1111"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="10.205399"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="fill:#5c616c"
+     style="fill:#1e333d;fill-opacity:1"
      d="M 11,3 10.5,4.03 C 10.67,4.02 10.83,4 11,4 c 0.17,0 0.33,0.02 0.5,0.03 z m 0,2 c -3.31,0 -6,2.68 -6,6 0,3.31 2.69,6 6,6 3.31,0 6,-2.69 6,-6 C 17,7.68 14.31,5 11,5 Z M 5.34,5.34 5.72,6.43 C 5.94,6.18 6.19,5.93 6.44,5.71 Z m 11.32,0 -1.1,0.37 c 0.25,0.22 0.5,0.47 0.72,0.72 z M 4.03,10.5 3,11 4.03,11.5 C 4.02,11.33 4,11.16 4,11 4,10.83 4.02,10.66 4.03,10.5 Z m 13.94,0 c 0.01,0.16 0.03,0.33 0.03,0.5 0,0.16 -0.02,0.33 -0.03,0.5 L 19,11 Z M 5.72,15.56 5.34,16.65 6.44,16.28 C 6.19,16.06 5.94,15.81 5.72,15.56 Z m 10.56,0 c -0.22,0.25 -0.47,0.5 -0.72,0.72 l 1.1,0.37 z M 10.5,17.96 11,19 11.5,17.96 C 11.33,17.98 11.17,18 11,18 10.83,18 10.67,17.98 10.5,17.96 Z"
      id="path2"
      inkscape:connector-curvature="0" />

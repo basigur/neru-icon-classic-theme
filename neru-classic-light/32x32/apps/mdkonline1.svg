@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48mm"
-   height="48mm"
-   viewBox="0 0 48 48"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="svg4511"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="mdkonline1.svg">
   <defs
      id="defs4505" />
@@ -25,12 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-25.97382"
-     inkscape:cy="131.51268"
+     inkscape:zoom="9.65625"
+     inkscape:cx="40.033433"
+     inkscape:cy="7.7152104"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="816"
+     inkscape:window-x="458"
+     inkscape:window-y="257"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata4508">
     <rdf:RDF>
@@ -39,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,7 +55,7 @@
      transform="translate(0,-249)">
     <g
        id="g5108"
-       transform="translate(0.3177609,0.10799)"
+       transform="matrix(0.65924321,0,0,0.65925327,0.41564476,85.09555)"
        inkscape:export-filename="/home/ramil/mdkonline.png"
        inkscape:export-xdpi="28.625589"
        inkscape:export-ydpi="28.625589">

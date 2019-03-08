@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="audio-input-microphone-medium-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="506"
+     inkscape:window-y="296"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="fill:#5c616c;stroke-width:0.875"
+     style="fill:#1e333d;stroke-width:0.875;fill-opacity:1"
      d="M 11,4 C 9.5475,4 8.375,5.1725 8.375,6.625 V 11 c 0,1.4525 1.1725,2.625 2.625,2.625 1.4525,0 2.625,-1.1725 2.625,-2.625 V 6.625 C 13.625,5.1725 12.4525,4 11,4 Z m 0,1.75 c 0.48125,0 0.875,0.39375 0.875,0.875 V 11 c 0,0.48125 -0.39375,0.875 -0.875,0.875 -0.48125,0 -0.875,-0.39375 -0.875,-0.875 V 6.625 C 10.125,6.14375 10.51875,5.75 11,5.75 Z M 5.75,10.125 V 11 c 0,2.59875 1.89,4.75125 4.375,5.17125 V 18 h 1.75 V 16.17125 C 14.36,15.75125 16.25,13.59875 16.25,11 V 10.125 H 14.5 V 11 c 0,1.95125 -1.54875,3.5 -3.5,3.5 -1.95125,0 -3.5,-1.54875 -3.5,-3.5 v -0.875 z"
      id="path2"
      inkscape:connector-curvature="0" />

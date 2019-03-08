@@ -12,7 +12,7 @@
    version="1"
    id="svg26"
    sodipodi:docname="view-icon.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="969"
+     inkscape:window-width="567"
+     inkscape:window-height="515"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="5.2149125"
-     inkscape:cx="-85.936828"
-     inkscape:cy="-4.3517529"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg26" />
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="676"
+     inkscape:window-y="281"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4595" />
   <g
      id="g4595"
      transform="translate(94.237305,-24.542968)">
@@ -68,7 +68,7 @@
     <path
        id="rect4497"
        d="m -86.763672,26.441406 c -2.415726,0 -4.417585,1.539384 -5.195312,3.679688 h 27.443359 c -0.777727,-2.140304 -2.779585,-3.679688 -5.195313,-3.679688 z"
-       style="opacity:1;fill:#5895dc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#2a88ae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <rect

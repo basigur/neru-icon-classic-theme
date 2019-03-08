@@ -12,7 +12,7 @@
    version="1"
    id="svg12"
    sodipodi:docname="system-installer.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,20 +36,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="972"
+     inkscape:window-width="567"
+     inkscape:window-height="515"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
      inkscape:cx="0.72922072"
      inkscape:cy="17.779944"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-x="879"
+     inkscape:window-y="134"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg12" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#3d6fa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#436a7f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 30.101562,10.187434 H 1.898438 v 5.250001 h 28.203124 z"
      id="path4812" />
   <path
@@ -58,17 +58,17 @@
      id="rect4497-3" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#3684ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#2a88ae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 30.101568,15.437435 H 1.898438 v 9.929687 c 0,3.088651 2.48557,5.574219 5.57422,5.574219 h 17.05274 c 3.08865,0 5.57617,-2.485567 5.57617,-5.574219 z"
      id="path4740" />
   <circle
-     style="opacity:1;fill:#3d6fa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32253075;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#3c5d6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32253075;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path4603-6-0"
      cx="8.0351105"
      cy="18.004227"
      r="1.0251551" />
   <circle
-     style="opacity:1;fill:#3d6fa1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32253075;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#3c5d6f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32253075;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path4603-5-0-2"
      cx="24.454437"
      cy="18.021032"

@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="deadbeef.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,24 +36,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="970"
+     inkscape:window-width="567"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="-5.5932203"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="440"
+     inkscape:window-y="206"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4483" />
   <g
      id="g4483"
      transform="translate(2.8644067,2.9322033)">
     <path
        id="path2-3"
        d="M 3.0092434,1.3267323 A 1.1073771,1.0579282 0 0 0 1.8766184,2.3841885 V 13.751205 a 1.1073771,1.0579282 0 0 0 1.661353,0.916037 L 8.6889302,11.826125 13.841161,8.9837339 a 1.1073771,1.0579282 0 0 0 0,-1.832075 L 8.6889302,4.309268 3.5379714,1.4681512 A 1.1073771,1.0579282 0 0 0 3.0092434,1.3267323 Z M 4.2845614,4.2149889 7.1728172,6.1413426 10.062348,8.0676959 4.2845614,11.91913 V 10.955953 L 8.6175832,8.0676959 6.4504348,6.6229309 4.2845614,8.0676959 Z"
-       style="fill:#5b616b;fill-opacity:0.29803922;stroke-width:0.65231025"
+       style="fill:#1e333d;fill-opacity:1;stroke-width:0.65231025;opacity:0.3"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

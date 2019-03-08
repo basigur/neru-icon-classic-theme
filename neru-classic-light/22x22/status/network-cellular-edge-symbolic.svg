@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="network-cellular-edge-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="fill:#5c616c"
+     style="fill:#1e333d;fill-opacity:1"
      d="M 6,4 C 4.892,4 4,4.892 4,6 v 10 c 0,1.108 0.892,2 2,2 h 10 c 1.108,0 2,-0.892 2,-2 V 6 C 18,4.892 17.108,4 16,4 Z m 3,2 h 6 V 8 H 9 v 2 h 4 v 2 H 9 v 2 h 6 v 2 H 9 C 9,16 7,16 7,14 V 8 C 7,6 9,6 9,6 Z"
      id="path2"
      inkscape:connector-curvature="0" />

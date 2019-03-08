@@ -50,7 +50,7 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
   </defs>
   <g
@@ -59,7 +59,7 @@
     <path
        id="path11098"
        d="m 269,82 c 0,0 -2,0 -2,2 v 5 l 7,7 7,-7 -7,-7 z m 1,2 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z"
-       style="color:#5c616c;fill:currentColor"
+       style="color:#1e333d;fill:currentColor"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0" />
   </g>

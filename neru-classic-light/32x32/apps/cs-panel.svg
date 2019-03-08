@@ -12,8 +12,8 @@
    width="32"
    version="1.1"
    id="svg10"
-   sodipodi:docname="mate-panel.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="cs-panel.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -36,29 +36,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="963"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="7.375"
      inkscape:cx="-8.6779661"
      inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="g4506" />
   <g
      id="g4506"
      transform="translate(43.93164,1.6269533)">
     <path
        id="path4502"
        d="m -13.830078,21.966797 h -28.203125 v 0.931641 c 0,3.08865 2.485568,5.576171 5.574219,5.576171 h 17.052734 c 3.088651,0 5.576172,-2.487521 5.576172,-5.576171 z"
-       style="opacity:1;fill:#253951;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#334b54;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="rect4497-3"
        d="m -36.458984,0.27148438 c -3.088651,0 -5.574219,2.48556792 -5.574219,5.57421872 V 21.966797 h 28.203125 V 5.8457031 c 0,-3.0886508 -2.487521,-5.57421872 -5.576172,-5.57421872 z"
-       style="opacity:1;fill:#4ab3e4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#2a88ae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

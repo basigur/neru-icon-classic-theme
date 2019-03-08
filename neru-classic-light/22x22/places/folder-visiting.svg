@@ -13,7 +13,7 @@
    viewBox="0 0 16 16"
    id="svg9"
    sodipodi:docname="folder-visiting.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -34,17 +34,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-width="980"
+     inkscape:window-height="574"
      id="namedview11"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="237"
+     inkscape:window-y="200"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg9" />
+     inkscape:current-layer="g4492" />
   <defs
      id="defs3">
     <style
@@ -60,12 +60,12 @@
        id="path5"
        d="m 1,2 v 11 c 0,0 0,1 1,1 h 12 c 0,0 1,0 1,-1 V 4 C 15,3 14,3 14,3 H 9 L 7,1 H 2 C 2,1 1,1 1,2 Z"
        class="ColorScheme-Text"
-       style="color:#5c616c;fill:currentColor"
+       style="color:#5c616c;fill:#1e333d;fill-opacity:1;stroke:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="path7"
        d="M 2,1 C 2,1 1.9084,1.0089 1.7891,1.0332 L 15,8.6602 v -2 L 5.1953,1 Z M 1,2.5781 v 2 L 15,12.66 v -2 z M 12.125,3 15,4.6602 V 4 C 15,3 14,3 14,3 Z M 1,6.5781 v 2 L 10.393,14 h 3.462 z m 0,3.9999 v 2 L 3.4648,14 h 3.4629 z"
-       style="opacity:0.2"
+       style="opacity:0.2;fill:#cdd8dd;fill-opacity:1;stroke:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

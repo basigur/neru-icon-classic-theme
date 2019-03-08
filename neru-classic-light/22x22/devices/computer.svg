@@ -50,11 +50,11 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
   </defs>
   <path
-     style="color:#5c616c;fill:currentColor;stroke-width:0.72727275"
+     style="color:#1e333d;fill:currentColor;stroke-width:0.72727275"
      class="ColorScheme-Text"
      d="m 2.9090907,2.9105114 c -0.7272727,0 -0.7272727,0.7272726 -0.7272727,0.7272726 v 7.272728 c 0,0.727272 0.7272727,0.727272 0.7272727,0.727272 h 3.6363637 c 0,0 -0.7272728,0 -0.7272728,0.727273 v 0.724432 h 4.3636364 v -0.724432 c 0,-0.727273 -0.711648,-0.727273 -0.711648,-0.727273 h 3.620739 c 0.727273,0 0.727273,-0.727272 0.727273,-0.727272 V 3.637784 c 0,0 0,-0.7272727 -0.727273,-0.7272727 z m 0.7272728,1.4545453 h 8.7272725 v 5.7997163 l -8.7272725,0.01847 z"
      id="path5"

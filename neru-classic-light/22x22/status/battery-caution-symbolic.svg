@@ -12,7 +12,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="battery-caution-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,16 +36,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="10.739636"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="g824" />
   <g
      id="g824"
      transform="translate(3,3)">
@@ -53,13 +53,13 @@
        id="path2"
        d="M 6,1 V 2 H 3 v 12 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 V 2 H 10 V 1 Z"
        class="warning"
-       style="opacity:0.35;fill:#5294e2"
+       style="opacity:0.35;fill:#3fb7ff;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="path4"
        d="m 3,12 v 2 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -2 z"
        class="warning"
-       style="fill:#5294e2"
+       style="fill:#3fb7ff;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

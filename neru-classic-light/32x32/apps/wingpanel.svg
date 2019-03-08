@@ -13,7 +13,7 @@
    version="1.1"
    id="svg10"
    sodipodi:docname="wingpanel.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -37,20 +37,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview12"
      showgrid="false"
      inkscape:zoom="8.8125"
      inkscape:cx="-5.6737589"
      inkscape:cy="16"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="g4506"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
   <g
      id="g4506"
      transform="translate(44.02832,3.4042967)">
     <path
        id="path4502"
        d="M -42.130859,5.1054688 V 21.123047 c 0,3.088651 2.487521,5.574219 5.576171,5.574219 h 17.052735 c 3.088651,0 5.576172,-2.485568 5.576172,-5.574219 V 5.1054688 Z"
-       style="opacity:1;fill:#4ab3e4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#6ab8d7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="rect4497-3"

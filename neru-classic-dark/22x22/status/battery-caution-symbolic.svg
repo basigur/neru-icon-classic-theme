@@ -53,13 +53,13 @@
        id="path2"
        d="M 6,1 V 2 H 3 v 12 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 V 2 H 10 V 1 Z"
        class="warning"
-       style="opacity:0.35;fill:#5294e2"
+       style="opacity:0.35;fill:#3fb7ff"
        inkscape:connector-curvature="0" />
     <path
        id="path4"
        d="m 3,12 v 2 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -2 z"
        class="warning"
-       style="fill:#5294e2"
+       style="fill:#3fb7ff"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

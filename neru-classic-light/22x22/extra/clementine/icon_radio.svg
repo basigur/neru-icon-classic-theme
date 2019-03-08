@@ -49,13 +49,13 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
   </defs>
   <path
      d="M 2.6,4 C 1.8244,4 1.2,4.6244 1.2,5.4 v 11.2 c 0,0.7756 0.6244,1.4 1.4,1.4 h 16.8 c 0.7756,0 1.4,-0.6244 1.4,-1.4 V 5.4 C 20.8,4.6244 20.1756,4 19.4,4 Z m 5.6,2.8 c 2.31952,0 4.2,1.88048 4.2,4.2 0,2.31952 -1.88048,4.2 -4.2,4.2 C 5.88048,15.2 4,13.31952 4,11 4,8.68048 5.88048,6.8 8.2,6.8 Z m 0,1.4 A 2.8,2.8 0 0 0 5.4,11 2.8,2.8 0 0 0 8.2,13.8 2.8,2.8 0 0 0 11,11 2.8,2.8 0 0 0 8.2,8.2 Z m 5.6,0 h 5.6 v 1.4 h -5.6 z m 0,2.8 h 5.6 v 1.4 h -5.6 z m 0,2.8 h 5.6 v 1.4 h -5.6 z"
      id="path4151"
-     style="color:#5c616c;fill:currentColor;stroke-width:1.39999998"
+     style="color:#1e333d;fill:currentColor;stroke-width:1.39999998"
      class="ColorScheme-Text"
      inkscape:connector-curvature="0" />
 </svg>

@@ -50,7 +50,7 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
     <filter
        id="filter7554-9"
@@ -62,7 +62,7 @@
     </filter>
   </defs>
   <path
-     style="opacity:1;fill:#5c616c;fill-opacity:1;stroke:none;stroke-width:1.68738234;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     style="opacity:1;fill:#1e333d;fill-opacity:1;stroke:none;stroke-width:1.68738234;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
      d="m 6.9496234,4.0000001 c -0.6971463,0 -1.2589455,0.5617991 -1.2589455,1.2589454 V 16.741055 C 5.6906779,17.438201 6.2524771,18 6.9496234,18 h 8.1007526 c 0.697146,0 1.258946,-0.561799 1.258946,-1.258945 V 5.2589455 c 0,-0.6971463 -0.5618,-1.2589454 -1.258946,-1.2589454 z m 0.4317325,1.84887 H 14.618643 V 13.163606 H 7.3813559 Z m 3.6186431,8.7302259 a 1.140413,1.140413 0 0 1 1.140301,1.140301 1.140413,1.140413 0 0 1 -1.140301,1.140301 1.140413,1.140413 0 0 1 -1.1402999,-1.140301 1.140413,1.140413 0 0 1 1.1402999,-1.140301 z"
      id="rect4502"
      inkscape:connector-curvature="0" />

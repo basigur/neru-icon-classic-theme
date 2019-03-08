@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="folder-music-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="fill:#5c616c;stroke-width:1.14285719"
+     style="fill:#1e333d;stroke-width:1.14285719;fill-opacity:1"
      d="m 7.5714286,3 c 0,0 0,0 0,1.1428571 V 12.36 C 7.2057143,12.222857 6.84,12.142857 6.4285714,12.142857 4.5314286,12.142857 3,13.674286 3,15.571429 3,17.468571 4.5314286,19 6.4285714,19 8.3257143,19 9.8571429,17.468571 9.8571429,15.571429 V 7.5714286 H 16.714286 V 12.36 c -0.365715,-0.137143 -0.731429,-0.217143 -1.142857,-0.217143 -1.897143,0 -3.428572,1.531429 -3.428572,3.428572 C 12.142857,17.468571 13.674286,19 15.571429,19 17.468571,19 19,17.468571 19,15.571429 V 3 c 0,0 0,0 -1.142857,0 z"
      id="path2"
      inkscape:connector-curvature="0" />

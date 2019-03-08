@@ -50,26 +50,26 @@
   <g
      id="g846"
      transform="matrix(0.93333333,0,0,0.93333333,3.5333334,-2.0666666)"
-     style="fill:#5c616c;fill-opacity:1">
+     style="fill:#1e333d;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
        id="path2"
        d="M 8,21.5 5,18 h 2 v -2 h 2 v 2 h 2 z"
-       style="fill:#5c616c;fill-opacity:1" />
+       style="fill:#1e333d;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4"
        d="M 8,6.5 5,10 h 2 v 2 h 2 v -2 h 2 z"
-       style="fill:#5c616c;fill-opacity:1" />
+       style="fill:#1e333d;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path6"
        d="M 15.5,14 12,11 v 2 h -2 v 2 h 2 v 2 z"
-       style="fill:#5c616c;fill-opacity:1" />
+       style="fill:#1e333d;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path8"
        d="M 0.5,14 4,11 v 2 h 2 v 2 H 4 v 2 z"
-       style="fill:#5c616c;fill-opacity:1" />
+       style="fill:#1e333d;fill-opacity:1" />
   </g>
 </svg>

@@ -50,7 +50,7 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
   </defs>
   <g
@@ -60,7 +60,7 @@
        id="g11"
        transform="matrix(0,1,-0.71032357,0,15.728814,0)"
        class="ColorScheme-Text"
-       style="color:#5c616c;opacity:0.5;fill:currentColor">
+       style="color:#1e333d;opacity:0.5;fill:currentColor">
       <rect
          id="rect5"
          y="0"
@@ -89,6 +89,6 @@
        height="12"
        width="12"
        class="ColorScheme-Text"
-       style="color:#5c616c;fill:currentColor" />
+       style="color:#1e333d;fill:currentColor" />
   </g>
 </svg>

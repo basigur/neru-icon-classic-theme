@@ -1,10 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="network-vpn.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="515"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
- </defs>
- <g transform="translate(-33 -575.36)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m40.5 582.36c-2.4853 0-4.5 2.0147-4.5 4.5s2.0147 4.5 4.5 4.5c1.9047-0.003 3.6014-1.2042 4.2363-3l3.2637-0.004v2h3v-2.0039l1 0.004v-3l-7.2637 0.004c-0.6349-1.7958-2.3316-2.9973-4.2363-3zm0 3c0.82843 0 1.5 0.67157 1.5 1.5s-0.67157 1.5-1.5 1.5-1.5-0.67157-1.5-1.5 0.67157-1.5 1.5-1.5z"/>
- </g>
+  </defs>
+  <g
+     transform="translate(-33,-575.36)"
+     id="g7">
+    <path
+       style="color:#1e333d;fill:#1e333d;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="m 40.5,582.36 c -2.4853,0 -4.5,2.0147 -4.5,4.5 0,2.4853 2.0147,4.5 4.5,4.5 1.9047,-0.003 3.6014,-1.2042 4.2363,-3 L 48,588.356 v 2 h 3 v -2.0039 l 1,0.004 v -3 l -7.2637,0.004 c -0.6349,-1.7958 -2.3316,-2.9973 -4.2363,-3 z m 0,3 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z"
+       id="path5"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>

@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="non-starred-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="fill:#5294e2"
+     style="fill:#3fb7ff;fill-opacity:1"
      class="warning"
      d="M 11,3.39 8.88,8.88 3,9.2 7.57,12.91 6.06,18.61 7.69,17.55 11,15.4 15.94,18.61 14.43,12.91 19,9.2 13.12,8.88 Z m 0,2.78 1.42,3.68 3.94,0.21 -3.06,2.49 1.01,3.81 L 11,14.21 7.69,16.35 8.71,12.55 5.64,10.06 9.58,9.85 Z"
      id="path2"

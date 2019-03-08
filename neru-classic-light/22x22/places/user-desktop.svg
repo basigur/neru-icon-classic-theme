@@ -12,7 +12,7 @@
    version="1.1"
    id="svg7"
    sodipodi:docname="user-desktop.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -34,14 +34,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7" />
   <defs
@@ -53,7 +53,7 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;fill:currentColor;stroke-width:1.14285719"
+     style="color:#5c616c;fill:#1e333d;stroke-width:1.14285719;fill-opacity:1"
      class="ColorScheme-Text"
      d="m 3,16.714286 c 0,0.633143 0.5097143,1.142857 1.1428571,1.142857 H 17.857143 C 18.490286,17.857143 19,17.347429 19,16.714286 V 5.2857143 C 19,4.6525714 18.490286,4.1428571 17.857143,4.1428571 H 4.1428571 C 3.5097143,4.1428571 3,4.6525714 3,5.2857143 Z M 13.285714,15.571429 V 11 H 15 l 1.714286,1.714286 v 2.857143 z"
      id="path5"

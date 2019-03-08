@@ -13,7 +13,7 @@
    viewBox="0 0 16 16"
    id="svg7"
    sodipodi:docname="folder-private.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7" />
   <defs
@@ -54,7 +54,7 @@
   </style>
   </defs>
   <path
-     style="color:#5c616c;fill:currentColor;stroke-width:0.72727275"
+     style="color:#5c616c;fill:#1e333d;stroke-width:0.72727275;fill-opacity:1"
      class="ColorScheme-Text"
      d="m 5.4545453,4.7272727 c -1.8072728,0 -3.2727273,1.4654545 -3.2727273,3.2727272 0,1.8072723 1.4654545,3.2727271 3.2727273,3.2727271 1.3854545,-0.0022 2.6189091,-0.875636 3.0807272,-2.1818178 h 2.3738185 v 1.4545448 h 2.181818 V 9.0909092 h 0.727273 V 6.9090908 H 8.5352725 C 8.0741816,5.602909 6.8399998,4.7294545 5.4545453,4.7272727 Z m 0,2.1818181 c 0.6021818,0 1.0909091,0.4887273 1.0909091,1.0909091 0,0.6021823 -0.4887273,1.0909093 -1.0909091,1.0909093 -0.6021818,0 -1.0909091,-0.488727 -1.0909091,-1.0909093 0,-0.6021818 0.4887273,-1.0909091 1.0909091,-1.0909091 z"
      id="path5"

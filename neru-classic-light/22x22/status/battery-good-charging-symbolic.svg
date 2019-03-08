@@ -12,7 +12,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="battery-good-charging-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,23 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="9.7415257"
-     inkscape:cy="9.7881359"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="9.7415259"
+     inkscape:cy="9.7881361"
+     inkscape:window-x="499"
+     inkscape:window-y="169"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <path
-     style="opacity:0.3;fill:#5c616c"
+     style="opacity:0.3;fill:#353535;fill-opacity:1"
      d="M 9,4 V 5 H 6 v 12 c 0,0.55 0.446,1 1,1 h 8 c 0.554,0 1,-0.45 1,-1 V 5 H 13 V 4 Z m 2,4 v 3 h 3 l -3,5 V 13 H 8 Z"
      id="path2"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#5c616c"
+     style="fill:#353535;fill-opacity:1"
      d="m 6,9 v 8 c 0,0.55 0.446,1 1,1 h 8 c 0.554,0 1,-0.45 1,-1 V 9 h -5 v 2 h 3 l -3,5 V 13 H 8 l 2.4,-4 z"
      id="path4"
      inkscape:connector-curvature="0" />

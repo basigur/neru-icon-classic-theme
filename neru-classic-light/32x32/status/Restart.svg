@@ -12,8 +12,8 @@
    height="32"
    version="1.1"
    viewBox="0 0 32 32"
-   sodipodi:docname="2.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   sodipodi:docname="Restart.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata87">
     <rdf:RDF>
@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="972"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      id="namedview83"
      showgrid="false"
      inkscape:zoom="3.1377863"
      inkscape:cx="-6.8690747"
      inkscape:cy="27.795573"
-     inkscape:current-layer="svg2"
-     inkscape:window-x="1360"
-     inkscape:window-y="0"
+     inkscape:current-layer="system-reboot"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1" />
   <g
      id="system-reboot"
@@ -57,7 +57,7 @@
        height="28.203388"
        width="28.203388"
        id="rect4497-3-2"
-       style="opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#3fb7ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        id="path4894"
        d="m 15.140625,-25.855469 v 2.082031 c -3.275086,0.372598 -6.1364911,2.490224 -7.4179688,5.583985 -1.4147379,3.415479 -0.6316728,7.354655 1.9824219,9.9687499 2.6140949,2.6140948 6.5532709,3.3991129 9.9687499,1.984375 3.41548,-1.4147379 5.648438,-4.7562369 5.648438,-8.4531249 a 1.1015625,1.1015625 0 0 0 -2.203125,0 c 0,2.812586 -1.688619,5.3416384 -4.28711,6.4179686 -2.598491,1.0763303 -5.581513,0.4829396 -7.570312,-1.5058594 -1.9887995,-1.9887992 -2.5821899,-4.9718212 -1.5058596,-7.5703122 0.9425436,-2.275501 2.9993246,-3.851913 5.3847656,-4.208985 v 2.712891 c 2.023971,-1.169551 4.049995,-2.3387 6.074219,-3.507812 z"

@@ -12,7 +12,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="radio-checked-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -36,28 +36,28 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="g4491" />
   <g
      id="g4491"
      transform="translate(3,3)">
     <path
        id="path2"
        d="M 8,5 C 6.34,5 5,6.34 5,8 5,9.66 6.34,11 8,11 9.66,11 11,9.66 11,8 11,6.34 9.66,5 8,5 Z"
-       style="fill:#5c616c"
+       style="fill:#1e333d;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="path4"
        d="M 8,1 C 4.14,1 1,4.14 1,8 c 0,3.86 3.14,7 7,7 3.86,0 7,-3.14 7,-7 C 15,4.14 11.86,1 8,1 Z m 0,1 c 3.32,0 6,2.68 6,6 0,3.32 -2.68,6 -6,6 C 4.68,14 2,11.32 2,8 2,4.68 4.68,2 8,2 Z"
-       style="fill:#5c616c"
+       style="fill:#1e333d;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -12,7 +12,7 @@
    version="1"
    id="svg24"
    sodipodi:docname="gnome-multimedia.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="972"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="5.2149125"
      inkscape:cx="-63.69763"
      inkscape:cy="2.9723487"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg24" />
   <path
@@ -54,7 +54,7 @@
      id="path4519" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#558dcb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#2a88ae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="m 7.474609,1.8984374 c -3.088651,0 -5.576172,2.487521 -5.576172,5.5761718 V 21.966797 H 30.101562 V 7.4746092 c 0,-3.0886508 -2.485568,-5.5761718 -5.574219,-5.5761718 z"
      id="rect4497-3" />
   <path
@@ -77,7 +77,7 @@
      y="24.778645"
      x="4.0000014"
      id="rect10-7"
-     style="fill:#558dcb;opacity:0.99;fill-opacity:1" />
+     style="fill:#2a88ae;opacity:0.99;fill-opacity:1" />
   <circle
      style="fill:#ffffff"
      cx="19.999998"

@@ -50,13 +50,13 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
   </defs>
   <path
      d="M 8.0005358,4.0049991 V 12.191037 C 7.680593,12.071059 7.3606501,12.001071 7.0007144,12.001071 5.3442102,12.001071 4.00125,13.344031 4.00125,15.000536 4.00125,16.65704 5.3442102,18 7.0007144,18 8.6572186,18 10.000179,16.65704 10.000179,15.000536 V 8.0017854 h 5.998929 v 4.1867526 c -0.319943,-0.119979 -0.639886,-0.189966 -0.999822,-0.189966 -1.656504,0 -2.999464,1.34296 -2.999464,2.999464 0,1.656504 1.34296,2.999464 2.999464,2.999464 1.656504,0 2.999464,-1.34296 2.999464,-2.999464 V 4 h -0.999821 z"
      id="path8672"
-     style="color:#5c616c;fill:currentColor;stroke-width:0.99982148"
+     style="color:#1e333d;fill:currentColor;stroke-width:0.99982148"
      class="ColorScheme-Text"
      inkscape:connector-curvature="0" />
 </svg>

@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="network-vpn-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,23 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="g818" />
   <g
      id="g818"
      transform="translate(3,2.5)">
     <path
        id="path2"
        d="M 4.5,4 C 2.02,4 0,6.01 0,8.5 0,10.99 2.02,13 4.5,13 6.41,13 8.1,11.8 8.74,10 H 12 v 2 h 3 v -2 h 1 V 7 H 8.74 C 8.1,5.2 6.41,4 4.5,4 Z m 0,3 C 5.33,7 6,7.67 6,8.5 6,9.33 5.33,10 4.5,10 3.67,10 3,9.33 3,8.5 3,7.67 3.67,7 4.5,7 Z"
-       style="fill:#5c616c"
+       style="fill:#1e333d;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

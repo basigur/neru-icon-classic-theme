@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="my-caffeine-off-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,18 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="8.0060785"
+     inkscape:cx="8.0060787"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="fill:#5c616c"
+     style="fill:#1e333d;fill-opacity:1"
      d="M 7,6 C 4.7909,6 3,7.79 3,10 3,12.21 4.7909,14 7,14 7.2425,14 7.4843,13.98 7.7227,13.93 8.462,15.48 9.958,16 13,16 19,16 19,14 19,6 Z M 7,8 H 7.0078 C 7.0194,9.6 7.06,10.94 7.2031,11.99 7.1357,11.99 7.0679,12 7,12 5.8954,12 5,11.1 5,10 5,8.9 5.8954,8 7,8 Z"
      id="path2"
      inkscape:connector-curvature="0" />

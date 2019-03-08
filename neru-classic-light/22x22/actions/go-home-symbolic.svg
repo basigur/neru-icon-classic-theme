@@ -13,7 +13,7 @@
    version="1.1"
    id="svg7"
    sodipodi:docname="go-home-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="384"
+     inkscape:window-y="243"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7" />
   <defs
@@ -51,11 +51,11 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
   </defs>
   <path
-     style="fill:currentColor;opacity:1"
+     style="fill:#6c7482;opacity:1;fill-opacity:1"
      class="ColorScheme-Text"
      transform="translate(3 3)"
      d="M 8.5 1.0039062 L 1.5 8.0039062 L 3 8.0039062 L 3 14.003906 L 7 14.003906 L 7 10.003906 L 10 10.003906 L 10 14.003906 L 14 14.003906 L 14 8.0039062 L 15.5 8.0039062 L 8.5 1.0039062 z"

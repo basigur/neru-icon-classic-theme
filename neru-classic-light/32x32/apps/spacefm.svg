@@ -12,7 +12,7 @@
    version="1"
    id="svg10"
    sodipodi:docname="spacefm.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -36,15 +36,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="9.5"
-     inkscape:cx="-4.1052632"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
      inkscape:cy="16"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="svg10"
+     inkscape:window-x="492"
+     inkscape:window-y="328"
+     inkscape:window-maximized="0" />
   <rect
-     style="opacity:1;fill:#4e91d9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#2a88ae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-6"
      width="28.203388"
      height="28.203388"

@@ -11,8 +11,8 @@
    width="32"
    version="1"
    id="svg24"
-   sodipodi:docname="rosamp.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   sodipodi:docname="multimedia-video-player.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="972"
+     inkscape:window-width="567"
+     inkscape:window-height="515"
      id="namedview26"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-35.650843"
-     inkscape:cy="16.142235"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="550"
+     inkscape:window-y="307"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg24" />
   <path
      inkscape:connector-curvature="0"
@@ -53,12 +53,12 @@
      id="path4519" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#4b88e8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#424647;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="m 7.474609,1.8984377 c -3.088651,0 -5.576172,2.4875207 -5.576172,5.5761717 V 21.966797 H 30.101562 V 7.4746094 c 0,-3.088651 -2.485568,-5.5761717 -5.574219,-5.5761717 z"
      id="rect4497-3" />
   <path
      d="m 12.781974,8.2195314 c -0.24524,-1.3e-4 -0.44409,0.1991 -0.44396,0.44482 v 9.1097996 c -8e-5,0.33795 0.36131,0.55243 0.65706,0.38996 l 8.3346,-4.5549 c 0.30749,-0.16869 0.30749,-0.61122 0,-0.77991 l -7.502,-4.0991996 -0.833,-0.4552 c -0.0653,-0.0359 -0.13859,-0.0548 -0.2131,-0.0548 z"
-     style="fill:#ffffff"
+     style="fill:#da2570;fill-opacity:1"
      id="path20-3"
      inkscape:connector-curvature="0" />
   <rect
@@ -76,9 +76,9 @@
      y="24.778645"
      x="4.0000029"
      id="rect10-7"
-     style="opacity:0.98999999;fill:#4b88e8;fill-opacity:1" />
+     style="opacity:0.98999999;fill:#da2570;fill-opacity:1" />
   <circle
-     style="fill:#ffffff"
+     style="fill:#da2570;fill-opacity:1"
      cx="19.999998"
      cy="25.779648"
      r="2"

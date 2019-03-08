@@ -12,7 +12,7 @@
    version="1"
    id="svg18"
    sodipodi:docname="kcron.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -36,19 +36,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="972"
+     inkscape:window-width="567"
+     inkscape:window-height="515"
      id="namedview20"
      showgrid="false"
-     inkscape:zoom="9.1171876"
-     inkscape:cx="2.0206492"
-     inkscape:cy="10.966618"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="670"
+     inkscape:window-y="251"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g826" />
   <rect
-     style="opacity:1;fill:#4b88e8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#2a88ae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3-3"
      width="28.203388"
      height="28.203388"
@@ -69,6 +69,6 @@
        inkscape:connector-curvature="0"
        id="path4498-3"
        d="M -14.559718,9.9513575 V 6.7835856 l 0.277176,2.12e-4 c 0.432434,3.16e-4 1.230778,0.146825 1.754026,0.321857 2.214915,0.740919 3.8805151,2.6606169 4.2759691,4.9282964 0.04466,0.256001 0.08117,0.604892 0.08117,0.775317 v 0.309861 h -3.1941711 -3.194165 z"
-       style="fill:#cceaff;fill-opacity:1;stroke-width:1" />
+       style="fill:#a8dbf0;fill-opacity:1;stroke-width:1" />
   </g>
 </svg>

@@ -50,11 +50,11 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
   </defs>
   <path
-     style="color:#5294e2;fill:currentColor;stroke-width:0.83116883"
+     style="color:#3fb7ff;fill:currentColor;stroke-width:0.83116883"
      class="ColorScheme-Highlight"
      d="M 7.9999998,2.1956987 6.0606336,6.0190753 2.181818,7.0164779 5.0909089,9.9255693 4.1211842,13.804301 7.9999998,11.809496 11.878815,13.748945 10.909091,9.8702133 13.818182,6.9611221 9.9393661,5.9913143 Z"
      id="path5"

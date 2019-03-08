@@ -12,7 +12,7 @@
    version="1"
    id="svg12"
    sodipodi:docname="media-mount.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -36,17 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="970"
+     inkscape:window-width="567"
+     inkscape:window-height="515"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="14.75"
      inkscape:cx="13.396279"
      inkscape:cy="10.085083"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
+     inkscape:window-x="454"
+     inkscape:window-y="190"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4508" />
   <g
      id="g4508"
      transform="matrix(1.0686618,0,0,1.0686618,-1.6057505,-1.7784627)"
@@ -66,7 +66,7 @@
        sodipodi:cx="16.135592"
        sodipodi:sides="3"
        id="path4502"
-       style="opacity:1;fill:#5c616c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07391367;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#1e333d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.07391367;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:type="star" />
     <rect
        y="21.76001"
@@ -74,6 +74,6 @@
        height="1.4264301"
        width="12.881356"
        id="rect4504"
-       style="opacity:1;fill:#5c616c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.04745015;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#1e333d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.04745015;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

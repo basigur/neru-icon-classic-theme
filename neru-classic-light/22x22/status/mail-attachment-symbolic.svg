@@ -12,7 +12,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="mail-attachment-symbolic.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -36,23 +36,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="515"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="g4488" />
   <g
      id="g4488"
      transform="translate(3.5,3)">
     <path
        id="path2"
        d="M 9,0 C 7.36,0 6,1.35 6,3 v 8 H 8 V 3 C 8,2 9,2 9,2 c 0,0 1,0 1,1 v 8.5 C 10,12.89 8.89,14 7.5,14 6.11,14 5,12.89 5,11.5 V 4 H 3 v 7.5 C 3,13.97 5.03,16 7.5,16 9.97,16 12,13.97 12,11.5 V 3 C 12,1.35 10.64,0 9,0 Z"
-       style="fill:#5c616c"
+       style="fill:#1e333d;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

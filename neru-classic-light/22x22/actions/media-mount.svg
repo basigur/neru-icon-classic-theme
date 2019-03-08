@@ -48,11 +48,11 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#1e333d; } .ColorScheme-Highlight { color:#3fb7ff; }
   </style>
   </defs>
   <path
-     style="color:#5c616c;opacity:1;fill:currentColor"
+     style="color:#1e333d;opacity:1;fill:currentColor"
      class="ColorScheme-Text"
      transform="translate(3,3)"
      d="m 3,11 v 2 h 10 v -2 z"
@@ -61,7 +61,7 @@
      sodipodi:nodetypes="ccccc" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#5c616c;opacity:1;fill:currentColor"
+     style="color:#1e333d;opacity:1;fill:currentColor"
      class="ColorScheme-Text"
      d="m 10.958333,12.375 5,-5.0000001 v -1 H 5.9583333 v 1 z"
      id="path5-3"
