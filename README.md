@@ -1,24 +1,13 @@
 neru-icon-classic-theme
 =======================
 
-* Тема иконок Неру для РОСA. Версия 2.5.1
-* Theme icons Neru for ROSA. Version 2.5.1
+* Тема иконок Неру Версия 2.6
+* Theme icons Neru Version 2.6
 
 ## Изображение / Image
 
 ![Screenshot](screenshot.svg)
 
-## Изменения
-
-* Изменены несколько иконок, появилось несколько новых. 
-
-
-
-## Change
-
-* Added some menu icons 
-* Given in the right part of the folder macnica icons
-* Made some edits to index.desktop
 
 ## Особенности
 
@@ -34,7 +23,7 @@ neru-icon-classic-theme
 
 ## Установка / Installation
 
-`git clone https://github.com/basigur/neru-icon-classic-theme.git /usr/share/icons/`
+`git clone https://github.com/basigur/neru-icon-classic-theme.git && cd neru-icon-classic-theme && cp -r neru-classic-* ~/.local/share/icons/`
 
 ## Сообщество / Community
 * РОСПО Дизайн-студия
