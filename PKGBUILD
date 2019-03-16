@@ -2,7 +2,7 @@
 
 pkgname=neru-icon-classic-theme
 pkgver=2.6
-pkgrel=1
+pkgrel=2
 pkgdesc="Classic theme icons Neru"
 arch=('any')
 url="https://github.com/basigur/neru-icon-classic-theme"
@@ -20,6 +20,11 @@ package() {
 	install -d "$pkgdir/usr/share/icons"
 	install -d "$pkgdir/usr/share/doc/${pkgname}"
 	install -d "$pkgdir/usr/share/licenses/${pkgname}"
+
+	ln -s filelight.svg neru-classic-light/32x32/apps/org.gnome.DiskUtility.svg
+	ln -s ark.svg neru-classic-light/32x32/apps/org.gnome.ArchiveManager.svg
+	ln -s preferences-system-privacy.svg neru-classic-light/32x32/apps/org.gnome.seahorse.Application.svg
+	ln -s applications-fonts.svg neru-classic-light/32x32/apps/org.gnome.font-viewer.svg
 
 	gtk-update-icon-cache neru-classic-light
 	gtk-update-icon-cache neru-classic-dark
