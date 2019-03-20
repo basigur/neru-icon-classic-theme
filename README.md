@@ -6,7 +6,7 @@ neru-icon-classic-theme
 
 ## Изображение / Image
 
-![Screenshot](screenshot.svg)
+![Screenshot](screenshot.png)
 
 
 ## Особенности
