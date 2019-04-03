@@ -17,16 +17,18 @@ sha512sums=('SKIP')
 
 prepare() {
 	cd "${_pkgname}"
-	gtk-update-icon-cache neru-classic-light/
-	gtk-update-icon-cache neru-classic-dark/
-	gtk-update-icon-cache neru-classic-light-green/
-	gtk-update-icon-cache neru-classic-dark-green/
-	gtk-update-icon-cache neru-classic-light-yellow/
-	gtk-update-icon-cache neru-classic-dark-yellow/
-	gtk-update-icon-cache neru-classic-light-gray/
-	gtk-update-icon-cache neru-classic-dark-gray/
-	gtk-update-icon-cache neru-classic-light-red/
-	gtk-update-icon-cache neru-classic-dark-red/
+	gtk-update-icon-cache neru-classic-light
+	gtk-update-icon-cache neru-classic-dark
+	gtk-update-icon-cache neru-classic-light-green
+	gtk-update-icon-cache neru-classic-dark-green
+	gtk-update-icon-cache neru-classic-light-yellow
+	gtk-update-icon-cache neru-classic-dark-yellow
+	gtk-update-icon-cache neru-classic-light-gray
+	gtk-update-icon-cache neru-classic-dark-gray
+	gtk-update-icon-cache neru-classic-light-red
+	gtk-update-icon-cache neru-classic-dark-red
+	gtk-update-icon-cache neru-classic-light-magenta
+	gtk-update-icon-cache neru-classic-dark-magenta
 
 }
 
