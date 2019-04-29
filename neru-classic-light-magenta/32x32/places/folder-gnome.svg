@@ -31,11 +31,11 @@
        inkscape:collect="always"
        id="linearGradient820">
       <stop
-         style="stop-color:#9955c9;stop-opacity:1"
+         style="stop-color:#9f2e57;stop-opacity:1"
          offset="0"
          id="stop816" />
       <stop
-         style="stop-color:#d8abea;stop-opacity:1"
+         style="stop-color:#f2c7d7;stop-opacity:1"
          offset="1"
          id="stop818" />
     </linearGradient>
@@ -64,11 +64,11 @@
       <stop
          id="stop986"
          offset="0"
-         style="stop-color:#9955c9;stop-opacity:1" />
+         style="stop-color:#9f2e57;stop-opacity:1" />
       <stop
          id="stop988"
          offset="1"
-         style="stop-color:#c771d9;stop-opacity:1" />
+         style="stop-color:#d5668e;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -88,7 +88,7 @@
          offset="0"
          id="stop885" />
       <stop
-         style="stop-color:#f2e6ff;stop-opacity:1"
+         style="stop-color:#f9e2ea;stop-opacity:1"
          offset="1"
          id="stop887" />
     </linearGradient>
@@ -136,7 +136,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#f2e6ff;fill-opacity:1"
+     style="opacity:1;fill:#f9e2ea;fill-opacity:1"
      d="m 19.952149,10.720339 c -2.539,0 -3.015,3.858 -1.586,3.858 1.428,0 4.126,-3.858 1.586,-3.858 z m -3.911,0.594 c -0.04,-0.001 -0.083,0.003 -0.128,0.008 -1.44,0.182 -0.933,2.617 -0.167,2.662 0.741,0.045 1.553,-2.666 0.294,-2.67 z m -2.495,0.899 c -0.088,-0.006 -0.185,0.011 -0.294,0.055 -1.156,0.475 -0.175,2.436 0.472,2.304 0.588,-0.12 0.672,-2.304 -0.178,-2.359 z m -1.887,1.602 c -0.101,-0.002 -0.209,0.032 -0.325,0.119 -0.926,0.691 0.311,2.36 0.856,2.101 0.476,-0.227 0.172,-2.194 -0.532,-2.219 z m 5.467,1.594 c -2.006,-0.035 -4.652,0.983 -5.103,3.029 -0.489,2.212 2.012,5.282 4.62,5.282 1.284,0 2.764,-1.173 3.041,-2.658 0.212,-1.133 -2.489,-0.679 -2.392,0.07 0.116,0.899 -0.651,1.343 -1.403,0.764 -2.394,-1.844 3.963,-2.764 3.543,-5.283 -0.13,-0.784 -1.103,-1.183 -2.306,-1.204 z"
      id="path14"
      inkscape:connector-curvature="0" />

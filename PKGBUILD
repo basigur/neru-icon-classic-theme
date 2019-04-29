@@ -29,6 +29,16 @@ prepare() {
 	gtk-update-icon-cache neru-classic-dark-red
 	gtk-update-icon-cache neru-classic-light-magenta
 	gtk-update-icon-cache neru-classic-dark-magenta
+	gtk-update-icon-cache neru-classic-light-black
+	gtk-update-icon-cache neru-classic-dark-black
+	gtk-update-icon-cache neru-classic-light-brown
+	gtk-update-icon-cache neru-classic-dark-brown
+	gtk-update-icon-cache neru-classic-light-cyan
+	gtk-update-icon-cache neru-classic-dark-cyan
+	gtk-update-icon-cache neru-classic-light-orange
+	gtk-update-icon-cache neru-classic-dark-orange
+	gtk-update-icon-cache neru-classic-light-pink
+	gtk-update-icon-cache neru-classic-dark-pink
 
 }
 

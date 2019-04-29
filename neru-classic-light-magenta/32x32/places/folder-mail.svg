@@ -31,11 +31,11 @@
        inkscape:collect="always"
        id="linearGradient820">
       <stop
-         style="stop-color:#9955c9;stop-opacity:1"
+         style="stop-color:#9f2e57;stop-opacity:1"
          offset="0"
          id="stop816" />
       <stop
-         style="stop-color:#d8abea;stop-opacity:1"
+         style="stop-color:#f2c7d7;stop-opacity:1"
          offset="1"
          id="stop818" />
     </linearGradient>
@@ -64,11 +64,11 @@
       <stop
          id="stop986"
          offset="0"
-         style="stop-color:#9955c9;stop-opacity:1" />
+         style="stop-color:#9f2e57;stop-opacity:1" />
       <stop
          id="stop988"
          offset="1"
-         style="stop-color:#c771d9;stop-opacity:1" />
+         style="stop-color:#d5668e;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -88,7 +88,7 @@
          offset="0"
          id="stop885" />
       <stop
-         style="stop-color:#f2e6ff;stop-opacity:1"
+         style="stop-color:#f9e2ea;stop-opacity:1"
          offset="1"
          id="stop887" />
     </linearGradient>
@@ -136,7 +136,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#f2e6ff;fill-opacity:1"
+     style="opacity:1;fill:#f9e2ea;fill-opacity:1"
      d="m 16,11.627119 c -3.313,0 -6,2.687 -6,6 0,3.314 2.687,6 6,6 h 3.75 c 0,0 0.703,-0.301 0.75,-1.051 0,-0.75 -0.75,-0.949 -0.75,-0.949 H 16 c -0.195,-0.001 -0.389,-0.017 -0.582,-0.047 -0.7,-0.079 -1.256,-0.299 -1.676,-0.652 l -0.006,-0.004 c -1.086,-0.746 -1.736,-1.979 -1.736,-3.297 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,0.454 -0.092,0.745 -0.24,1.002 -0.004,0 -0.007,-0.002 -0.01,-0.002 h -0.934 c 0.112,-0.314 0.184,-0.648 0.184,-1 0,-1.657 -1.343,-3 -3,-3 -1.656,0 -3,1.343 -3,3 0,1.657 1.343,3 3,3 h 3.75 c 0.542,-0.05 0.923,-0.371 1.27,-0.576 0.762,-0.544 0.98,-1.31 0.98,-2.424 0,-3.314 -2.686,-6 -6,-6 z m 0,5 c 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 z"
      id="path14"
      inkscape:connector-curvature="0" />

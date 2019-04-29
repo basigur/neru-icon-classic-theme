@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=neru-classic-light-magenta
 Comment=NERU icons with magenta folders for light themes
-Comment[ru]=НЕРУ значки с пурпурно-фиолетовыми папками для светлых тем 
+Comment[ru]=НЕРУ значки с пурпурными папками для светлых тем 
 Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
 DesktopDefault=48

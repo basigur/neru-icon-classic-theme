@@ -31,11 +31,11 @@
        inkscape:collect="always"
        id="linearGradient820">
       <stop
-         style="stop-color:#ff3f68;stop-opacity:1"
+         style="stop-color:#a64928;stop-opacity:1"
          offset="0"
          id="stop816" />
       <stop
-         style="stop-color:#ffa687;stop-opacity:1"
+         style="stop-color:#e7b2a0;stop-opacity:1"
          offset="1"
          id="stop818" />
     </linearGradient>
@@ -64,7 +64,7 @@
       <stop
          id="stop986"
          offset="0"
-         style="stop-color:#ff3f68;stop-opacity:1" />
+         style="stop-color:#a64928;stop-opacity:1" />
       <stop
          id="stop988"
          offset="1"
@@ -88,7 +88,7 @@
          offset="0"
          id="stop885" />
       <stop
-         style="stop-color:#f6e4dc;stop-opacity:1"
+         style="stop-color:#f3dcd4;stop-opacity:1"
          offset="1"
          id="stop887" />
     </linearGradient>
@@ -139,5 +139,5 @@
      d="m 16.552996,12.749979 c -2.315692,0 -4.221425,1.524959 -4.429723,3.75 H 11 l 1.658987,2.083354 1.658986,-2.083354 h -1.08295 c 0.204887,-1.622208 1.61451,-2.663041 3.317973,-2.663041 1.844239,0 3.341014,1.473041 3.341014,3.288062 0,1.815 -1.496775,3.288042 -3.341014,3.288042 -1.000588,0 -1.89904,-0.434354 -2.511521,-1.120917 l -0.81221,0.7405 C 14.044027,20.934125 15.231296,21.5 16.552996,21.5 19.007743,21.5 21,19.54 21,17.125 21,14.709979 19.007742,12.749979 16.552996,12.749979 Z"
      inkscape:connector-curvature="0"
      id="path2504-1-2-9"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f6e4dc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99613982;marker:none;enable-background:accumulate" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f3dcd4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99613982;marker:none;enable-background:accumulate" />
 </svg>

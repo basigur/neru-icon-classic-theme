@@ -13,7 +13,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="folder-magenta.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -37,18 +37,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="769"
-     inkscape:window-height="480"
+     inkscape:window-height="504"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="fill:#ca71df;stroke-width:0.83116877"
+     style="fill:#d5668e;stroke-width:0.83116877;fill-opacity:1"
      d="m 2.181818,3.4285716 v 9.1428564 c 0,0 0,0.831169 0.8311688,0.831169 h 9.9740262 c 0,0 0.831169,0 0.831169,-0.831169 V 5.0909092 c 0,-0.8311688 -0.831169,-0.8311688 -0.831169,-0.8311688 H 8.8311684 L 7.1688308,2.5974028 h -4.155844 c 0,0 -0.8311688,0 -0.8311688,0.8311688 z"
      id="path2"
      inkscape:connector-curvature="0" />

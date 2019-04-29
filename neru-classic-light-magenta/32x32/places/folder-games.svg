@@ -31,11 +31,11 @@
        inkscape:collect="always"
        id="linearGradient820">
       <stop
-         style="stop-color:#9955c9;stop-opacity:1"
+         style="stop-color:#9f2e57;stop-opacity:1"
          offset="0"
          id="stop816" />
       <stop
-         style="stop-color:#d8abea;stop-opacity:1"
+         style="stop-color:#f2c7d7;stop-opacity:1"
          offset="1"
          id="stop818" />
     </linearGradient>
@@ -64,11 +64,11 @@
       <stop
          id="stop986"
          offset="0"
-         style="stop-color:#9955c9;stop-opacity:1" />
+         style="stop-color:#9f2e57;stop-opacity:1" />
       <stop
          id="stop988"
          offset="1"
-         style="stop-color:#c771d9;stop-opacity:1" />
+         style="stop-color:#d5668e;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -88,7 +88,7 @@
          offset="0"
          id="stop885" />
       <stop
-         style="stop-color:#f2e6ff;stop-opacity:1"
+         style="stop-color:#f9e2ea;stop-opacity:1"
          offset="1"
          id="stop887" />
     </linearGradient>
@@ -136,7 +136,7 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
   <path
-     style="opacity:1;fill:#f2e6ff;fill-opacity:1"
+     style="opacity:1;fill:#f9e2ea;fill-opacity:1"
      d="m 18.646,14.033905 c -0.15,10e-4 -0.286,0.052 -0.416,0.15 -0.33,0.252 -1.019,0.849 -2.231,0.85 -1.212,10e-4 -1.898,-0.598 -2.228,-0.85 -0.13,-0.098 -0.255,-0.147 -0.407,-0.146 -0.151,10e-4 -0.326,0.045 -0.504,0.146 -0.648,0.365 -1.242,1.562 -1.566,3.112 -0.276,1.316 -0.38,3.115 -0.215,3.84 0.144,0.622 0.391,0.898 0.832,0.898 1.413,0 1.475,-1.092 1.996,-2.139 0.377,-0.58 1.25,-0.842 2.092,-0.812 0.842,-0.032 1.717,0.232 2.094,0.812 0.521,1.047 0.583,2.139 1.996,2.139 0.441,0 0.688,-0.276 0.832,-0.898 0.165,-0.725 0.061,-2.524 -0.215,-3.84 -0.324,-1.55 -0.918,-2.747 -1.566,-3.112 -0.178,-0.101 -0.343,-0.151 -0.494,-0.15 z m -5.645,1 h 1 v 1 h 1 v 1 h -1 v 1 h -1 v -1 h -1 v -1 h 1 z m 5.5,0 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z m -1,1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z m 2,0 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z m -1,1 a 0.5,0.5 0 0 1 0.5,0.5 0.5,0.5 0 0 1 -0.5,0.5 0.5,0.5 0 0 1 -0.5,-0.5 0.5,0.5 0 0 1 0.5,-0.5 z"
      id="path14"
      inkscape:connector-curvature="0" />
