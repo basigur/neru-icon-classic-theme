@@ -12,8 +12,7 @@ depends=('gtk-update-icon-cache')
 replaces=('neru-icon-classic-theme')
 conflicts=('neru-icon-classic-theme')
 source=("${_pkgname}-${pkgver}.tar.gz::https://github.com/basigur/neru-icon-classic-theme/archive/v${pkgver}.tar.gz")
-sha512sums=('7cc868c5a4f22da2d6dfa99791e3afa93e710a90c7ff1b01c957066d4c16b281a2a827185380277bb37ded8c148f6e631aec69d704dc085be4e39844fd21fa04')
-
+sha512sums=('SKIP')
 
 package() {
 	cd "${_pkgname}-${pkgver}"
