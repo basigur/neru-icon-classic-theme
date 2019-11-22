@@ -23,7 +23,12 @@ neru-classic-icon
 
 ## Установка / Installation
 
-`git clone https://github.com/basigur/neru-icon-classic-theme.git && cd neru-icon-classic-theme && cp -r neru-classic-* ~/.local/share/icons/`
+```
+git clone https://github.com/basigur/neru-icon-classic-theme.git
+mkdir -p ~/.local/share/icons
+cd neru-icon-classic-theme
+cp -r neru-*/ ~/.local/share/icons/
+```
 
 ## Сообщество / Community
 * РОСПО Дизайн-студия
