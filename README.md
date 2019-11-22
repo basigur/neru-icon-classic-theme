@@ -1,8 +1,8 @@
-neru-icon-classic-theme
+neru-classic-icon
 =======================
-
-* Тема иконок Неру Версия 2.8
-* Theme icons Neru Version 2.8
+* neru-icon-classic-theme
+* Тема иконок Неру Версия 2.9
+* Theme icons Neru Version 2.9
 
 ## Изображение / Image
 
