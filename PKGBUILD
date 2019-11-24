@@ -2,7 +2,7 @@
 
 pkgname=neru-classic-icon
 _pkgname=neru-icon-classic-theme
-pkgver=2.9
+pkgver=3.0
 pkgrel=1
 pkgdesc="Classic theme icons Neru fork"
 arch=('any')
@@ -13,9 +13,10 @@ source=("${pkgname}-${pkgver}.tar.gz::https://github.com/basigur/neru-icon-class
 sha512sums=('SKIP')
 
 package() {
-	cd "${_pkgname}-${pkgver}"
-	install -d "$pkgdir/usr/share/icons"
-	cp -r neru-*/ "$pkgdir/usr/share/icons"
-	install -Dm644 LICENSE "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
-    install -Dm644 README.md AUTHORS screenshot.svg -t "${pkgdir}/usr/share/doc/${pkgname}/"
+    cd "${_pkgname}-${pkgver}"
+    install -d "$pkgdir/usr/share/icons"
+    cp -r neru*classic/ "$pkgdir/usr/share/icons"
+    install -Dm644 LICENSE "${pkgdir}/usr/share/licenses/${pkgname}/LICENSE"
+    install -Dm644 README.md AUTHORS -t "${pkgdir}/usr/share/doc/${pkgname}/"
 }
+
