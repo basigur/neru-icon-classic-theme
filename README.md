@@ -27,7 +27,7 @@ neru-classic-icon
 git clone https://github.com/basigur/neru-icon-classic-theme.git
 mkdir -p ~/.local/share/icons
 cd neru-icon-classic-theme
-cp -r neru-*/ ~/.local/share/icons/
+cp -r neru*classic/ ~/.local/share/icons/
 ```
 
 ## Сообщество / Community
