@@ -25,7 +25,7 @@ Requires(post):		gtk-update-icon-cache
 find . -type f -exec chmod 0644 {} \;
 find . -type d -exec chmod 0755 {} \;
 install -d %{buildroot}%{_datadir}/icons
-cp -R neru-*/ %{buildroot}%{_datadir}/icons/
+cp -R neru*classic/ %{buildroot}%{_datadir}/icons/
 
 
 %files
@@ -52,6 +52,7 @@ cp -R neru-*/ %{buildroot}%{_datadir}/icons/
 %{_datadir}/icons/neru-light-pink-classic
 %{_datadir}/icons/neru-light-red-classic
 %{_datadir}/icons/neru-light-yellow-classic
+%{_datadir}/icons/neru-classic
 %doc AUTHORS README.md
 %license LICENSE
 
@@ -63,6 +64,7 @@ gtk-update-icon-cache -q /usr/share/icons/neru-light-"${_color}"-classic
 gtk-update-icon-cache -q /usr/share/icons/neru-dark-"${_color}"-classic
 gtk-update-icon-cache -q /usr/share/icons/neru-light-classic
 gtk-update-icon-cache -q /usr/share/icons/neru-dark-classic
+gtk-update-icon-cache -q /usr/share/icons/neru-classic
    done
 
 
@@ -75,6 +77,7 @@ rm -f /usr/share/icons/neru-light-"${_color}"-classic/icon-theme.cache
 rm -f /usr/share/icons/neru-dark-"${_color}"-classic/icon-theme.cache
 rm -f /usr/share/icons/neru-light-classic/icon-theme.cache
 rm -f /usr/share/icons/neru-dark-classic/icon-theme.cache
+rm -f /usr/share/icons/neru-classic/icon-theme.cache
    done
 fi
 
