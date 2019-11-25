@@ -1,6 +1,6 @@
 Name:			neru-classic-icon
-Version:		3.0
-Release:         	1
+Version:		3.1
+Release:         	1%{?dist}
 Summary:         	Classic theme icons Neru fork
 Group:           	Graphical desktop/Other
 License:         	LGPLv3
@@ -53,7 +53,16 @@ cp -R neru*classic/ %{buildroot}%{_datadir}/icons/
 %{_datadir}/icons/neru-light-red-classic
 %{_datadir}/icons/neru-light-yellow-classic
 %{_datadir}/icons/neru-classic
+%{_datadir}/icons/neru-black-classic
+%{_datadir}/icons/neru-brown-classic
+%{_datadir}/icons/neru-cyan-classic
+%{_datadir}/icons/neru-grey-classic
 %{_datadir}/icons/neru-green-classic
+%{_datadir}/icons/neru-magenta-classic
+%{_datadir}/icons/neru-orange-classic
+%{_datadir}/icons/neru-pink-classic
+%{_datadir}/icons/neru-red-classic
+%{_datadir}/icons/neru-yellow-classic
 %doc AUTHORS README.md
 %license LICENSE
 
@@ -66,7 +75,7 @@ gtk-update-icon-cache -q /usr/share/icons/neru-dark-"${_color}"-classic
 gtk-update-icon-cache -q /usr/share/icons/neru-light-classic
 gtk-update-icon-cache -q /usr/share/icons/neru-dark-classic
 gtk-update-icon-cache -q /usr/share/icons/neru-classic
-gtk-update-icon-cache -q /usr/share/icons/neru-green-classic
+gtk-update-icon-cache -q /usr/share/icons/neru-"${_color}"-classic
    done
 
 
@@ -80,7 +89,7 @@ rm -f /usr/share/icons/neru-dark-"${_color}"-classic/icon-theme.cache
 rm -f /usr/share/icons/neru-light-classic/icon-theme.cache
 rm -f /usr/share/icons/neru-dark-classic/icon-theme.cache
 rm -f /usr/share/icons/neru-classic/icon-theme.cache
-rm -f /usr/share/icons/neru-green-classic/icon-theme.cache
+rm -f /usr/share/icons/neru-"${_color}"-classic/icon-theme.cache
    done
 fi
 

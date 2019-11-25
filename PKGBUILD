@@ -2,7 +2,7 @@
 
 pkgname=neru-classic-icon
 _pkgname=neru-icon-classic-theme
-pkgver=3.0
+pkgver=3.1
 pkgrel=1
 pkgdesc="Classic theme icons Neru fork"
 arch=('any')
