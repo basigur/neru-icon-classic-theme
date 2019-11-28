@@ -1,6 +1,6 @@
 neru-classic-icon
 =======================
-* neru-icon-classic-theme
+neru-icon-classic-theme
 * Тема иконок Неру Версия 3.1
 * Theme icons Neru Version 3.1
 
