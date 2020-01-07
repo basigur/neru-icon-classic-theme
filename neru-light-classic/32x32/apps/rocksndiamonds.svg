@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,10 +40,10 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="13.216335"
-     inkscape:cx="15.932899"
+     inkscape:cx="18.787902"
      inkscape:cy="12.044575"
-     inkscape:window-x="403"
-     inkscape:window-y="102"
+     inkscape:window-x="446"
+     inkscape:window-y="115"
      inkscape:window-maximized="0"
      inkscape:current-layer="g898" />
   <defs
@@ -169,7 +170,7 @@
        fy="16.362625"
        r="14.101694"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.0628363,2.019856e-4,-1.7499358e-4,1.7870342,-17.051019,-11.384748)" />
+       gradientTransform="matrix(2.0628363,2.019856e-4,-1.7499358e-4,1.7870342,-17.002888,-12.599473)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3333"
@@ -402,6 +403,22 @@
        r="2.0175938"
        gradientTransform="matrix(0.78942846,-0.61384257,1.9580516,2.5181402,-31.141601,-11.183288)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(-2.54182,0,0,2.58531,185.47025,-277.37048)"
+       id="1"
+       x1="67.893997"
+       y1="108.69"
+       x2="67.853996"
+       y2="113.11"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#f9f9f9"
+         id="stop2-7" />
+      <stop
+         offset="1"
+         stop-color="#999"
+         id="stop4-5" />
+    </linearGradient>
   </defs>
   <g
      id="g898">
@@ -410,12 +427,13 @@
        id="rect4497-3"
        width="28.203388"
        height="28.203388"
-       x="1.8498688"
-       y="3.1093371"
+       x="1.898"
+       y="1.8946118"
        ry="5.575182"
        inkscape:highlight-color="3363908351" />
     <g
-       id="g886">
+       id="g886"
+       transform="translate(0.04813123,-1.2147253)">
       <path
          inkscape:connector-curvature="0"
          id="path959"

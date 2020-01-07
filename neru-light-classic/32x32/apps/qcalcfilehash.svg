@@ -39,12 +39,14 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="12.34375"
-     inkscape:cx="16"
+     inkscape:cx="9.7883281"
      inkscape:cy="15.481973"
-     inkscape:window-x="415"
-     inkscape:window-y="94"
+     inkscape:window-x="822"
+     inkscape:window-y="95"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg37" />
+     inkscape:current-layer="svg37"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <defs
      id="defs7">
     <linearGradient
@@ -88,9 +90,11 @@
        gradientTransform="matrix(2.0628363,2.019856e-4,-1.7499358e-4,1.7870342,-17.051019,-11.384748)" />
   </defs>
   <g
-     id="g835">
+     id="g835"
+     transform="translate(-0.05186877,-1.1107253)"
+     style="stroke:#9fbfcb;stroke-opacity:1">
     <rect
-       style="opacity:1;fill:url(#radialGradient828);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:url(#radialGradient828);fill-opacity:1;fill-rule:evenodd;stroke:#9fbfcb;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4497-3"
        width="28.203388"
        height="28.203388"
@@ -100,7 +104,7 @@
        inkscape:highlight-color="3873892095" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70189381px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0051cb;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70189381px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0051cb;fill-opacity:1;stroke:#9fbfcb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="15.74855"
        y="25.360582"
        id="text857"
@@ -109,18 +113,18 @@
          id="tspan855"
          x="15.748549"
          y="25.360582"
-         style="stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Calc</tspan></text>
+         style="stroke:#9fbfcb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Calc</tspan></text>
     <text
        id="text14"
        y="13.913184"
        x="15.937294"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70189381px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0051cb;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.70189381px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0051cb;fill-opacity:1;stroke:#9fbfcb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"
        inkscape:label="Hash"><tspan
          sodipodi:role="line"
          id="tspan853"
-         x="15.937293"
+         x="15.937294"
          y="13.913184"
-         style="stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hash</tspan></text>
+         style="stroke:#9fbfcb;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Hash</tspan></text>
   </g>
 </svg>
