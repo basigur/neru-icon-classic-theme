@@ -1,10 +1,11 @@
 #!/bin/bash
-# link fix neru-icon-classic-theme-2.7
+# fixlink neru-icon-classic-theme-2.7
 #
 
 link_prepare() {
     mkdir -p neru-classic-light/32x32/apps
     mkdir -p neru-classic-light/32x32/mimetypes
+    ln -s home-mdk.svg neru-classic-light/32x32/apps/go-home.svg
     ln -s document-viewer.svg neru-classic-light/32x32/apps/graphics-viewer-document.svg
     ln -s document-viewer.svg neru-classic-light/32x32/apps/org.gnome.Evince.svg
     ln -s document-viewer.svg neru-classic-light/32x32/apps/xpdf9.svg
@@ -28,9 +29,11 @@ link_prepare() {
     ln -s utilities-terminal.svg neru-classic-light/32x32/apps/org.gnome.Terminal.svg
     ln -s preferences-desktop-color.svg neru-classic-light/32x32/apps/xfce4-color-settings.svg
     ln -s wps-office-wpsmain.svg neru-classic-light/32x32/apps/wps-office2019-wpsmain.svg
+    #ln -s wps-office-wpsmain.svg neru-classic-light/32x32/apps/wps-office2019-kprometheus.svg
     ln -s wps-office-wppmain.svg neru-classic-light/32x32/apps/wps-office2019-wppmain.svg
     ln -s preferences-desktop-color.svg neru-classic-light/32x32/apps/package_graphics.svg
     ln -s electron.svg neru-classic-light/32x32/apps/electron4.svg
+    ln -s electron.svg neru-classic-light/32x32/apps/electron6.svg
     ln -s wps-office-wpsmain.svg neru-classic-light/32x32/apps/com.wps.Office2019.wpsmain.svg
     ln -s wps-office-wppmain.svg neru-classic-light/32x32/apps/com.wps.Office2019.wppmain.svg
     ln -s wps-office-wpsmain.svg neru-classic-light/32x32/apps/com.wps.Office.wpsmain.svg
