@@ -2,7 +2,7 @@
 Name=neru-dark-classic
 Comment=NERU icons with blue folders for dark themes
 Comment[ru]=НЕРУ значки с синими папками для темных тем 
-Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+Inherits=breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
 # Directory list
 Directories=22x22/actions,22x22/animations,22x22/devices,22x22/emblems,22x22/emotes,22x22/extra,22x22/extra/clementine,22x22/panel,22x22/places,22x22/status,32x32/apps,32x32/devices,32x32/mimetypes,32x32/places,32x32/start,32x32/status,large/applets

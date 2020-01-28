@@ -2,7 +2,7 @@
 Name=neru-dark-grey-classic
 Comment=NERU icons with gray folders for dark themes
 Comment[ru]=НЕРУ значки с серыми папками для темных тем 
-Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+Inherits=breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256

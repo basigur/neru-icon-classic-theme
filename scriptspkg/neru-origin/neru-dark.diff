@@ -1,0 +1,65 @@
+diff --git a/neru-classic-dark-gray/index.theme b/neru-classic-dark-gray/index.theme
+index 5332f06..93daf64 100644
+--- a/neru-classic-dark-gray/index.theme
++++ b/neru-classic-dark-gray/index.theme
+@@ -2,7 +2,7 @@
+ Name=neru-classic-dark-gray
+ Comment=NERU icons with gray folders for dark themes
+ Comment[ru]=НЕРУ значки с серыми папками для темных тем 
+-Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
++Inherits=breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+ 
+ DesktopDefault=48
+ DesktopSizes=16,22,32,48,64,128,256
+diff --git a/neru-classic-dark-green/index.theme b/neru-classic-dark-green/index.theme
+index c306c2e..793d096 100644
+--- a/neru-classic-dark-green/index.theme
++++ b/neru-classic-dark-green/index.theme
+@@ -2,7 +2,7 @@
+ Name=neru-classic-dark-green
+ Comment=NERU icons with green folders for dark themes
+ Comment[ru]=НЕРУ значки с зелеными папками для темных тем 
+-Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
++Inherits=breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+ 
+ DesktopDefault=48
+ DesktopSizes=16,22,32,48,64,128,256
+diff --git a/neru-classic-dark-red/index.theme b/neru-classic-dark-red/index.theme
+index b67c772..8d82d9e 100644
+--- a/neru-classic-dark-red/index.theme
++++ b/neru-classic-dark-red/index.theme
+@@ -2,7 +2,7 @@
+ Name=neru-classic-dark-red
+ Comment=NERU icons with red folders for dark themes
+ Comment[ru]=НЕРУ значки с красными папками для темных тем 
+-Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
++Inherits=breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+ 
+ DesktopDefault=48
+ DesktopSizes=16,22,32,48,64,128,256
+diff --git a/neru-classic-dark-yellow/index.theme b/neru-classic-dark-yellow/index.theme
+index 8ded40d..4116dc8 100644
+--- a/neru-classic-dark-yellow/index.theme
++++ b/neru-classic-dark-yellow/index.theme
+@@ -2,7 +2,7 @@
+ Name=neru-classic-dark-yellow
+ Comment=NERU icons with yellow folders for dark themes
+ Comment[ru]=НЕРУ значки с желтыми папками для темных тем 
+-Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
++Inherits=breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+ 
+ DesktopDefault=48
+ DesktopSizes=16,22,32,48,64,128,256
+diff --git a/neru-classic-dark/index.theme b/neru-classic-dark/index.theme
+index 727e292..5727869 100644
+--- a/neru-classic-dark/index.theme
++++ b/neru-classic-dark/index.theme
+@@ -2,7 +2,7 @@
+ Name=neru-classic-dark
+ Comment=NERU icons with blue folders for dark themes
+ Comment[ru]=НЕРУ значки с синими папками для темных тем 
+-Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
++Inherits=breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+ 
+ # Directory list
+ Directories=22x22/actions,22x22/animations,22x22/devices,22x22/emblems,22x22/emotes,22x22/extra,22x22/extra/clementine,22x22/panel,22x22/places,22x22/status,32x32/apps,32x32/devices,32x32/mimetypes,32x32/places,32x32/start,32x32/status,large/applets

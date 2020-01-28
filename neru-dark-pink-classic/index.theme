@@ -2,7 +2,7 @@
 Name=neru-dark-pink-classic
 Comment=NERU icons with pink folders for dark themes
 Comment[ru]=НЕРУ значки с розовыми папками для темных тем 
-Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
+Inherits=breeze-dark,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
