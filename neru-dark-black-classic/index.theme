@@ -114,7 +114,7 @@ Type=Scalable
 [32x32/places]
 Context=Places
 Size=32
-MinSize=32
+MinSize=16
 MaxSize=512
 Type=Scalable
 

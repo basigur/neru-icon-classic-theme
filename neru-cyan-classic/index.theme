@@ -107,14 +107,14 @@ Type=Scalable
 [32x32/mimetypes]
 Context=MimeTypes
 Size=32
-MinSize=32
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [32x32/places]
 Context=Places
 Size=32
-MinSize=32
+MinSize=22
 MaxSize=512
 Type=Scalable
 
