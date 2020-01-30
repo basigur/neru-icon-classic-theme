@@ -12,7 +12,7 @@
    height="32"
    version="1"
    id="svg14"
-   sodipodi:docname="folder (1-я копия).svg"
+   sodipodi:docname="folder-cyan.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata20">
@@ -68,7 +68,8 @@
        y1="28.452196"
        x2="16.87215"
        y2="6.7922716"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,31.997302,0)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient889"
@@ -78,7 +79,7 @@
        x2="-13.152541"
        y2="7.4576254"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2926751,0,0,1.5798246,46.671882,-6.6345208)" />
+       gradientTransform="matrix(1.2926751,0,0,1.5798246,14.502312,-6.6312634)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient889">
@@ -137,14 +138,14 @@
      id="rect883"
      width="27.168089"
      height="21.849777"
-     x="2.5018301"
-     y="5.1472187"
-     transform="matrix(0.99999999,1.0125852e-4,-6.7794228e-5,1,0,0)"
-     inkscape:transform-center-x="4.8282266"
-     inkscape:transform-center-y="-6.7305722" />
+     x="-29.66774"
+     y="5.150476"
+     transform="matrix(-0.99999999,1.0125852e-4,6.7794228e-5,1,0,0)"
+     inkscape:transform-center-x="-4.8282269"
+     inkscape:transform-center-y="-6.7305724" />
   <path
      style="fill:url(#linearGradient829-3);fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 27.902331,6.7852986 c 1.168734,-7.388e-4 2.109629,0.9408941 2.109629,2.1096297 V 26.505448 c 0,1.168735 -0.940895,2.109629 -2.109629,2.109629 H 4.094972 c -1.168735,0 -2.109682,-0.940894 -2.10963,-2.109629 L 1.986073,10.260941 2.099032,5.9796262 C 2.123762,5.0421555 2.741782,4.5113084 3.679578,4.5113084 h 8.978592 c 0.937797,0 1.827453,0.1319292 2.524344,0.7594692 l 1.689637,1.521494 z"
+     d="M 4.094971,6.7852986 C 2.926237,6.7845598 1.985342,7.7261927 1.985342,8.8949283 V 26.505448 c 0,1.168735 0.940895,2.109629 2.109629,2.109629 H 27.90233 c 1.168735,0 2.109682,-0.940894 2.10963,-2.109629 L 30.011229,10.260941 29.89827,5.9796262 C 29.87354,5.0421555 29.25552,4.5113084 28.317724,4.5113084 h -8.978592 c -0.937797,0 -1.827453,0.1319292 -2.524344,0.7594692 l -1.689637,1.521494 z"
      id="rect4549-9"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssscsssscs" />
