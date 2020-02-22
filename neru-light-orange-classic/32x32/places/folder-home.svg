@@ -97,28 +97,28 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1186"
-       x="-0.089632907"
-       width="1.1792658"
-       y="-0.10310499"
-       height="1.20621">
+       id="filter885"
+       x="-0.010807046"
+       width="1.0216141"
+       y="-0.013436661"
+       height="1.0268733">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.37346805"
-         id="feGaussianBlur1188" />
+         stdDeviation="0.11614813"
+         id="feGaussianBlur887" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1098"
-       x="-0.086456369"
-       width="1.1729127"
-       y="-0.10749328"
-       height="1.2149866">
+       id="filter1045"
+       x="-0.011204113"
+       width="1.0224082"
+       y="-0.012888124"
+       height="1.0257762">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.92918504"
-         id="feGaussianBlur1100" />
+         stdDeviation="0.046683506"
+         id="feGaussianBlur1047" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -153,7 +153,7 @@
        style="opacity:1;fill:url(#linearGradient1037);fill-opacity:1;stroke:none;stroke-width:1.2556994"
        id="path25-2" />
     <rect
-       style="opacity:0.647;vector-effect:none;fill:#121212;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19693819;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1098)"
+       style="opacity:0.647;vector-effect:none;fill:#121212;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19693819;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter885)"
        id="rect883-5-5-5"
        width="25.792688"
        height="20.74362"
@@ -180,7 +180,7 @@
        style="opacity:1;fill:url(#linearGradient975);fill-opacity:1;stroke:none;stroke-width:1.2556994"
        id="path25" />
     <path
-       style="opacity:0.647;fill:#000000;fill-opacity:1;stroke-width:0.98281068;filter:url(#filter1186)"
+       style="opacity:0.647;fill:#000000;fill-opacity:1;stroke-width:0.98281068;filter:url(#filter1045)"
        d="m -17.578361,1.7577099 h 0.999994 v 3.863692 h 2.999981 v -2.897769 h 1.999987 v 2.897769 h 2.9999799 v -3.863692 h 0.999994 l -4.9999669,-4.829615 z"
        id="path14-3"
        inkscape:connector-curvature="0" />

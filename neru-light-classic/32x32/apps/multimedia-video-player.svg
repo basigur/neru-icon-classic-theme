@@ -29,54 +29,54 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1160"
-       x="-0.10004768"
-       width="1.2000954"
-       y="-0.092267107"
-       height="1.1845342">
+       id="filter1013"
+       x="-0.012"
+       width="1.024"
+       y="-0.012"
+       height="1.024">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.38444476"
-         id="feGaussianBlur1162" />
+         stdDeviation="0.02"
+         id="feGaussianBlur1015" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2458"
-       x="-0.06"
-       width="1.12"
-       y="-0.24"
-       height="1.48">
+       id="filter1129"
+       x="-0.00675"
+       width="1.0135"
+       y="-0.054"
+       height="1.108">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.2"
-         id="feGaussianBlur2460" />
+         stdDeviation="0.045"
+         id="feGaussianBlur1131" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter3069"
-       x="-0.054"
-       width="1.108"
-       y="-0.432"
-       height="1.864">
+       id="filter1313"
+       x="-0.0075"
+       width="1.015"
+       y="-0.03"
+       height="1.06">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.36"
-         id="feGaussianBlur3071" />
+         stdDeviation="0.025"
+         id="feGaussianBlur1315" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter3569"
-       x="-0.096"
-       width="1.192"
-       y="-0.096"
-       height="1.192">
+       id="filter1409"
+       x="-0.012505959"
+       width="1.0250119"
+       y="-0.011533388"
+       height="1.0230668">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.16"
-         id="feGaussianBlur3571" />
+         stdDeviation="0.048055595"
+         id="feGaussianBlur1411" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -92,11 +92,11 @@
      inkscape:window-height="655"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="7.375"
+     inkscape:zoom="14.78125"
      inkscape:cx="16"
      inkscape:cy="16"
-     inkscape:window-x="550"
-     inkscape:window-y="167"
+     inkscape:window-x="801"
+     inkscape:window-y="148"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg24" />
   <path
@@ -111,7 +111,7 @@
      id="rect4497-3" />
   <path
      d="m 12.782374,8.2189614 c -0.24524,-1.3e-4 -0.44409,0.1991 -0.44396,0.44482 v 9.1097996 c -8e-5,0.33795 0.36131,0.55243 0.65706,0.38996 l 8.3346,-4.5549 c 0.30749,-0.16869 0.30749,-0.61122 0,-0.77991 l -7.502,-4.0991996 -0.833,-0.4552 c -0.0653,-0.0359 -0.13859,-0.0548 -0.2131,-0.0548 z"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter1160);opacity:0.647"
+     style="fill:#000000;fill-opacity:1;opacity:0.647;filter:url(#filter1409)"
      id="path20-3-3"
      inkscape:connector-curvature="0" />
   <path
@@ -126,7 +126,7 @@
      y="24.778645"
      x="20.000004"
      id="rect8-6-7"
-     style="fill:#000000;fill-opacity:1;filter:url(#filter2458);opacity:0.647" />
+     style="fill:#040404;fill-opacity:1;opacity:0.647;filter:url(#filter1313)" />
   <rect
      ry="1"
      height="2"
@@ -142,7 +142,7 @@
      y="24.778645"
      x="3.9999981"
      id="rect10-7-5"
-     style="opacity:0.647;fill:#000000;fill-opacity:1;filter:url(#filter3069)" />
+     style="opacity:0.647;fill:#9ea7a9;fill-opacity:1;filter:url(#filter1129)" />
   <rect
      ry="1"
      height="2"
@@ -152,7 +152,7 @@
      id="rect10-7"
      style="opacity:0.98999999;fill:#da2570;fill-opacity:1" />
   <circle
-     style="fill:#030001;fill-opacity:1;opacity:0.647;filter:url(#filter3569)"
+     style="fill:#000000;fill-opacity:1;opacity:0.647;filter:url(#filter1013)"
      cx="20"
      cy="25.780001"
      r="2"

@@ -97,80 +97,80 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1572"
-       x="-0.086456369"
-       width="1.1729127"
-       y="-0.10749328"
-       height="1.2149866">
+       id="filter897"
+       x="-0.010807046"
+       width="1.0216141"
+       y="-0.013436661"
+       height="1.0268733">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.92918504"
-         id="feGaussianBlur1574" />
+         stdDeviation="0.11614813"
+         id="feGaussianBlur899" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2411"
-       x="-0.15714917"
-       width="1.3142983"
-       y="-0.26093099"
-       height="1.521862">
+       id="filter2306"
+       x="-0.019643645"
+       width="1.0392873"
+       y="-0.032616372"
+       height="1.0652327">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="3.8881979"
-         id="feGaussianBlur2413" />
+         stdDeviation="0.48602471"
+         id="feGaussianBlur2308" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2415"
-       x="-0.18529199"
-       width="1.370584"
-       y="-0.26101127"
-       height="1.5220225">
+       id="filter2310"
+       x="-0.023161497"
+       width="1.046323"
+       y="-0.032626407"
+       height="1.0652528">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="3.8881979"
-         id="feGaussianBlur2417" />
+         stdDeviation="0.48602471"
+         id="feGaussianBlur2312" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2419"
-       x="-0.18529199"
-       width="1.370584"
-       y="-0.26100397"
-       height="1.5220079">
+       id="filter2314"
+       x="-0.023161497"
+       width="1.046323"
+       y="-0.032625494"
+       height="1.065251">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="3.8881979"
-         id="feGaussianBlur2421" />
+         stdDeviation="0.48602471"
+         id="feGaussianBlur2316" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2423"
-       x="-0.18529199"
-       width="1.370584"
-       y="-0.26100397"
-       height="1.5220079">
+       id="filter2318"
+       x="-0.023161497"
+       width="1.046323"
+       y="-0.032625494"
+       height="1.065251">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="3.8881979"
-         id="feGaussianBlur2425" />
+         stdDeviation="0.48602471"
+         id="feGaussianBlur2320" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter2427"
-       x="-0.18529199"
-       width="1.370584"
-       y="-0.26101127"
-       height="1.5220225">
+       id="filter2322"
+       x="-0.023161497"
+       width="1.046323"
+       y="-0.032626407"
+       height="1.0652528">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="3.8881979"
-         id="feGaussianBlur2429" />
+         stdDeviation="0.48602471"
+         id="feGaussianBlur2324" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -189,8 +189,8 @@
      inkscape:zoom="17.56"
      inkscape:cx="16"
      inkscape:cy="18.277904"
-     inkscape:window-x="106"
-     inkscape:window-y="122"
+     inkscape:window-x="336"
+     inkscape:window-y="127"
      inkscape:window-maximized="0"
      inkscape:current-layer="g2492"
      showguides="true"
@@ -210,7 +210,7 @@
        style="opacity:1;fill:url(#linearGradient1037);fill-opacity:1;stroke:none;stroke-width:1.27766156"
        id="path25-2" />
     <rect
-       style="opacity:0.647;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19693819;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1572)"
+       style="opacity:0.647;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19693819;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter897)"
        id="rect883-5-5-3"
        width="25.792688"
        height="20.74362"
@@ -237,37 +237,36 @@
        style="opacity:1;fill:url(#linearGradient975);fill-opacity:1;stroke:none;stroke-width:1.27766156"
        id="path25" />
     <g
-       transform="matrix(1.0000063,0,0,1.0352793,28.578472,14.980279)"
-       id="g2436">
+       id="g2331">
       <path
-         transform="matrix(0.0992799,0,0,-0.09589733,-14.636697,-3.1695468)"
+         transform="matrix(0.09928053,0,0,-0.09928052,13.941683,11.698913)"
          inkscape:connector-curvature="0"
          d="m 0,0 -29.63,-19.346 20.487,-16.406 29.875,18.447 z"
-         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2427)"
+         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2322)"
          id="path2997-7" />
       <path
-         transform="matrix(0.0992799,0,0,-0.09589733,-17.578352,1.8323328)"
+         transform="matrix(0.09928053,0,0,-0.09928052,11.000009,16.877255)"
          inkscape:connector-curvature="0"
          d="M 0,0 29.63,-19.346 50.362,-2.04 20.487,16.407 Z"
-         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2423)"
+         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2318)"
          id="path3001-3" />
       <path
-         transform="matrix(0.0992799,0,0,-0.09589733,-12.578387,2.0279637)"
+         transform="matrix(0.09928053,0,0,-0.09928052,16.000006,17.079788)"
          inkscape:connector-curvature="0"
          d="M 0,0 20.733,-17.306 50.362,2.04 29.875,18.447 Z"
-         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2419)"
+         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2314)"
          id="path3005-6" />
       <path
-         transform="matrix(0.0992799,0,0,-0.09589733,-7.578423,-1.314347)"
+         transform="matrix(0.09928053,0,0,-0.09928052,21.000001,13.619563)"
          inkscape:connector-curvature="0"
          d="M 0,0 -29.629,19.346 -50.362,2.041 -20.487,-16.406 Z"
-         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2415)"
+         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2310)"
          id="path3009-9" />
       <path
-         transform="matrix(0.0992799,0,0,-0.09589733,-12.572371,2.385008)"
+         transform="matrix(0.09928053,0,0,-0.09928052,16.006022,17.449428)"
          inkscape:connector-curvature="0"
          d="m 0,0 -20.793,-17.254 -8.897,5.809 v -6.513 L 0,-35.763 29.691,-17.958 v 6.513 l -8.896,-5.809 z"
-         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2411)"
+         style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2306)"
          id="path3013-2" />
     </g>
     <g

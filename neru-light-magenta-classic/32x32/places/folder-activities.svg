@@ -97,54 +97,54 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1522"
-       x="-0.086456369"
-       width="1.1729127"
-       y="-0.10749328"
-       height="1.2149866">
+       id="filter1064"
+       x="-0.036"
+       width="1.072"
+       y="-0.036"
+       height="1.072">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.92918504"
-         id="feGaussianBlur1524" />
+         stdDeviation="0.045"
+         id="feGaussianBlur1066" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1699"
-       x="-0.224"
-       width="1.448"
-       y="-0.224"
-       height="1.448">
+       id="filter1380"
+       x="-0.036"
+       width="1.072"
+       y="-0.036"
+       height="1.072">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.28"
-         id="feGaussianBlur1701" />
+         stdDeviation="0.045"
+         id="feGaussianBlur1382" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1703"
-       x="-0.224"
-       width="1.448"
-       y="-0.224"
-       height="1.448">
+       id="filter1516"
+       x="-0.036"
+       width="1.072"
+       y="-0.036"
+       height="1.072">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.28"
-         id="feGaussianBlur1705" />
+         stdDeviation="0.045"
+         id="feGaussianBlur1518" />
     </filter>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter1707"
-       x="-0.224"
-       width="1.448"
-       y="-0.224"
-       height="1.448">
+       id="filter1616"
+       x="-0.010807046"
+       width="1.0216141"
+       y="-0.013436661"
+       height="1.0268733">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.28"
-         id="feGaussianBlur1709" />
+         stdDeviation="0.11614813"
+         id="feGaussianBlur1618" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -156,16 +156,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1030"
+     inkscape:window-width="771"
+     inkscape:window-height="651"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="17.56"
+     inkscape:zoom="14.65625"
      inkscape:cx="16"
      inkscape:cy="16"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-x="535"
+     inkscape:window-y="106"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g872"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -179,7 +179,7 @@
        style="opacity:1;fill:url(#linearGradient1037);fill-opacity:1;stroke:none;stroke-width:1.2556994"
        id="path25-2" />
     <rect
-       style="opacity:0.647;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19693819;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1522)"
+       style="opacity:0.647;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19693819;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter1616)"
        id="rect883-5-5-2"
        width="25.792688"
        height="20.74362"
@@ -209,21 +209,21 @@
        id="g1714">
       <circle
          transform="matrix(0.9999937,0,0,0.96592292,-28.425848,-16.412026)"
-         style="opacity:0.647;fill:#000000;fill-opacity:1;filter:url(#filter1707)"
+         style="opacity:0.647;fill:#000000;fill-opacity:1;filter:url(#filter1516)"
          cx="11.90678"
          cy="18.008474"
          r="1.5"
          id="circle14-6" />
       <circle
          transform="matrix(0.9999937,0,0,0.96592292,-28.425848,-16.412026)"
-         style="opacity:0.647;fill:#000000;fill-opacity:1;filter:url(#filter1703)"
+         style="opacity:0.647;fill:#000000;fill-opacity:1;filter:url(#filter1380)"
          cx="15.90678"
          cy="18.008474"
          r="1.5"
          id="circle16-7" />
       <circle
          transform="matrix(0.9999937,0,0,0.96592292,-28.425848,-16.412026)"
-         style="opacity:0.647;fill:#000000;fill-opacity:1;filter:url(#filter1699)"
+         style="opacity:0.647;fill:#000000;fill-opacity:1;filter:url(#filter1064)"
          cx="19.90678"
          cy="18.008474"
          r="1.5"

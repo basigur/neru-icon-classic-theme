@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,15 +97,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter5197"
-       x="-0.0072201176"
-       width="1.0144402"
-       y="-0.0071799942"
-       height="1.01436">
+       id="filter888"
+       x="-0.012033529"
+       width="1.0240671"
+       y="-0.011966657"
+       height="1.0239333">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.0788388"
-         id="feGaussianBlur5199" />
+         stdDeviation="0.131398"
+         id="feGaussianBlur890" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -124,8 +124,8 @@
      inkscape:zoom="13.03125"
      inkscape:cx="10.878326"
      inkscape:cy="22.330936"
-     inkscape:window-x="627"
-     inkscape:window-y="95"
+     inkscape:window-x="409"
+     inkscape:window-y="80"
      inkscape:window-maximized="0"
      inkscape:current-layer="g872"
      showguides="false"
@@ -151,7 +151,7 @@
        style="opacity:1;fill:url(#linearGradient1037);fill-opacity:1;stroke:none;stroke-width:1.23246288"
        id="path25-2" />
     <rect
-       style="opacity:0.40700001;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16423553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter5197)"
+       style="opacity:0.40700001;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16423553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter888)"
        id="rect883-5-5-0"
        width="21.509672"
        height="17.29903"
