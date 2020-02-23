@@ -75,15 +75,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter840"
-       x="-0.012033529"
-       width="1.0240671"
-       y="-0.011966657"
-       height="1.0239333">
+       id="filter5197"
+       x="-0.0072201176"
+       width="1.0144402"
+       y="-0.0071799942"
+       height="1.01436">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.131398"
-         id="feGaussianBlur842" />
+         stdDeviation="0.0788388"
+         id="feGaussianBlur5199" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -101,9 +101,9 @@
      showgrid="false"
      inkscape:zoom="13.03125"
      inkscape:cx="10.878326"
-     inkscape:cy="22.330936"
-     inkscape:window-x="411"
-     inkscape:window-y="86"
+     inkscape:cy="22.407675"
+     inkscape:window-x="627"
+     inkscape:window-y="95"
      inkscape:window-maximized="0"
      inkscape:current-layer="g872"
      showguides="false"
@@ -129,7 +129,7 @@
        style="opacity:1;fill:#2aae73;fill-opacity:1;stroke:#71d997;stroke-width:0.1;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="path25-2" />
     <rect
-       style="opacity:0.40700001;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16423553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter840)"
+       style="opacity:0.40700001;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.16423553;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter5197)"
        id="rect883-5-5-0"
        width="21.509672"
        height="17.29903"
