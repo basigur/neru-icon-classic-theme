@@ -27,7 +27,34 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12" />
+     id="defs12">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter980"
+       x="-0.012"
+       width="1.024"
+       y="-0.012"
+       height="1.024">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.086804996"
+         id="feGaussianBlur982" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter988"
+       x="-0.012"
+       width="1.024"
+       y="-0.012"
+       height="1.024">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.141015"
+         id="feGaussianBlur990" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -37,17 +64,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="831"
-     inkscape:window-height="685"
+     inkscape:window-width="772"
+     inkscape:window-height="696"
      id="namedview10"
      showgrid="false"
-     inkscape:zoom="31.365845"
-     inkscape:cx="16"
+     inkscape:zoom="13.03125"
+     inkscape:cx="14.199456"
      inkscape:cy="16"
-     inkscape:window-x="490"
-     inkscape:window-y="99"
+     inkscape:window-x="649"
+     inkscape:window-y="195"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg8"
+     inkscape:current-layer="distributor-logo-archlinux"
      inkscape:snap-global="true" />
   <g
      id="distributor-logo-archlinux"
@@ -55,15 +82,30 @@
     <rect
        inkscape:highlight-color="3891327743"
        ry="5.5751052"
+       y="1.8984997"
+       x="1.8984997"
+       height="28.202999"
+       width="28.202999"
+       id="rect4497-3-6-3-3-3"
+       style="opacity:0.397;fill:#9ea7a9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15876552;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter988)" />
+    <rect
+       inkscape:highlight-color="3891327743"
+       ry="5.5751052"
        y="1.8985004"
-       x="1.8985002"
+       x="1.8985004"
        height="28.202999"
        width="28.202999"
        id="rect4497-3-6-3-3"
        style="opacity:1;fill:#e7f0f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15876552;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
+       id="arch_linux"
+       d="m 16.000024,7.3194997 c -0.772799,1.8946923 -1.239448,3.1356943 -2.099858,4.9740633 0.52754,0.55919 1.175038,1.207303 2.226622,1.94278 -1.130555,-0.46522 -1.901078,-0.929008 -2.477396,-1.413683 -1.101158,2.297737 -2.828897,5.567287 -6.3298917,11.857839 2.7511677,-1.588291 4.8851867,-2.566491 6.8727717,-2.940348 -0.08528,-0.366995 -0.132814,-0.76527 -0.129518,-1.179443 l 0.0027,-0.08543 c 0.04366,-1.762913 0.961149,-3.12058 2.0475,-3.028531 1.086357,0.09205 1.931332,1.59906 1.887672,3.36197 -0.0083,0.331545 -0.04493,0.649374 -0.110225,0.945213 1.965569,0.384994 4.076865,1.360172 6.790098,2.926566 -0.535233,-0.985398 -1.01533,-1.871153 -1.471556,-2.717131 -0.718628,-0.556985 -1.466498,-1.282019 -2.995468,-2.066786 1.05093,0.273074 1.805446,0.587541 2.391966,0.939697 C 17.966873,12.200087 17.59065,11.052339 15.999978,7.3194997 Z"
+       style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01446752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter980)"
+       inkscape:connector-curvature="0"
+       inkscape:highlight-color="395563519" />
+    <path
        id="archlinux"
-       d="m 15.954524,7.7320002 c -0.7728,1.8946923 -1.239449,3.1356948 -2.099859,4.9740638 0.52754,0.55919 1.175038,1.207303 2.226623,1.94278 -1.130556,-0.46522 -1.901079,-0.929008 -2.477397,-1.413683 C 12.502733,15.532898 10.774994,18.802448 7.274,25.093 c 2.751167,-1.588291 4.885186,-2.566491 6.872771,-2.940348 -0.08528,-0.366995 -0.132814,-0.76527 -0.129518,-1.179443 l 0.0027,-0.08543 c 0.04366,-1.762913 0.961149,-3.12058 2.047501,-3.028531 1.086357,0.09205 1.931332,1.59906 1.887672,3.36197 -0.0083,0.331545 -0.04493,0.649374 -0.110225,0.945213 1.965569,0.384994 4.076865,1.360172 6.790098,2.926566 -0.535233,-0.985398 -1.01533,-1.871153 -1.471556,-2.717131 -0.718628,-0.556985 -1.466498,-1.282019 -2.995468,-2.066786 1.05093,0.273074 1.805446,0.587541 2.391966,0.939697 C 17.921373,12.612588 17.54515,11.46484 15.954478,7.7320002 Z"
+       d="m 16.000024,7.3195001 c -0.7728,1.8946923 -1.239449,3.1356949 -2.099859,4.9740639 0.52754,0.55919 1.175038,1.207303 2.226623,1.94278 -1.130555,-0.46522 -1.901078,-0.929008 -2.477396,-1.413683 -1.101158,2.297737 -2.828897,5.567287 -6.3298915,11.857839 2.7511675,-1.588291 4.8851865,-2.566491 6.8727715,-2.940348 -0.08528,-0.366995 -0.132814,-0.76527 -0.129518,-1.179443 l 0.0027,-0.08543 c 0.04366,-1.762913 0.961149,-3.12058 2.0475,-3.028531 1.086357,0.09205 1.931333,1.59906 1.887672,3.36197 -0.0083,0.331545 -0.04493,0.649374 -0.110225,0.945213 1.965569,0.384994 4.076865,1.360172 6.790098,2.926566 -0.535233,-0.985398 -1.01533,-1.871153 -1.471556,-2.717131 -0.718628,-0.556985 -1.466498,-1.282019 -2.995468,-2.066786 1.050931,0.273074 1.805446,0.587541 2.391967,0.939697 C 17.966873,12.200088 17.59065,11.05234 15.999978,7.3195001 Z"
        style="fill:#1793d1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.01446752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:highlight-color="395563519" />
