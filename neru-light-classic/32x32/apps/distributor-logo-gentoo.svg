@@ -28,34 +28,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs12">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter888"
-       x="-0.012001597"
-       width="1.0240032"
-       y="-0.011998403"
-       height="1.0239968">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.086793451"
-         id="feGaussianBlur890" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter896"
-       x="-0.012"
-       width="1.024"
-       y="-0.012"
-       height="1.024">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.141015"
-         id="feGaussianBlur898" />
-    </filter>
-  </defs>
+     id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -65,16 +38,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
-     inkscape:window-height="671"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="14.78125"
      inkscape:cx="16.923247"
      inkscape:cy="16"
-     inkscape:window-x="366"
-     inkscape:window-y="152"
-     inkscape:window-maximized="0"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
      inkscape:current-layer="distributor-logo-gentoo" />
   <g
      id="distributor-logo-gentoo"
@@ -82,24 +55,15 @@
     <rect
        inkscape:highlight-color="2559702015"
        ry="5.5751052"
-       y="1.8984997"
-       x="1.8984997"
-       height="28.202999"
-       width="28.202999"
-       id="rect4497-3-6-3-3-3"
-       style="opacity:0.397;fill:#9891f3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15876552;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter896)" />
-    <rect
-       inkscape:highlight-color="2559702015"
-       ry="5.5751052"
        y="1.8985004"
        x="1.8985004"
        height="28.202999"
        width="28.202999"
-       id="rect4497-3-6-3-3"
+       id="rect4497"
        style="opacity:1;fill:#9891f3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15876552;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       d="m 14.201122,7.3252853 c -3.740937,0.177933 -6.6710489,3.5572167 -6.5242179,5.3965837 0.146831,1.788735 4.6957009,3.359755 4.6450699,3.41328 -0.929448,0.782617 -1.545705,1.311353 -2.3225349,2.020193 -1.867576,1.701215 -3.158676,2.961214 -2.506255,4.73259 0.757302,2.042616 2.407162,1.957989 4.3470679,1.579701 C 16.85276,23.481766 25.08832,17.176709 24.662293,14.849835 24.317276,12.967793 19.717775,9.2471083 16.991635,7.9133323 16.141028,7.4981553 15.174691,7.2804403 14.188826,7.3252853 m 0.785509,3.2295597 c 0.468702,-0.04774 1.011182,0.07378 1.621652,0.367439 1.327989,0.638679 2.703717,2.336278 0,3.302614 -0.734879,0.256774 -3.088515,-0.632892 -3.020524,-1.870468 0.0622,-1.147163 0.618426,-1.732318 1.398872,-1.799585 m 0,0"
-       style="opacity:0.647;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72330576;filter:url(#filter888)"
+       d="m 14.301311,7.4247856 c -3.740937,0.177933 -6.6710484,3.5572164 -6.5242174,5.3965834 0.146831,1.788735 4.6957004,3.359755 4.6450694,3.41328 -0.929448,0.782617 -1.545705,1.311353 -2.322534,2.020193 -1.8675764,1.701215 -3.1586764,2.961214 -2.5062554,4.73259 0.757302,2.042616 2.4071624,1.957989 4.3470674,1.579701 5.012508,-0.985867 13.248068,-7.290924 12.822041,-9.617798 C 24.417465,13.067293 19.817964,9.3466086 17.091824,8.0128326 16.241217,7.5976556 15.27488,7.3799406 14.289015,7.4247856 m 0.785509,3.2295594 c 0.468702,-0.04774 1.011182,0.07378 1.621652,0.367439 1.327989,0.638679 2.703717,2.336278 0,3.302614 -0.734879,0.256774 -3.088515,-0.632892 -3.020524,-1.870468 0.0622,-1.147163 0.618426,-1.732318 1.398872,-1.799585 m 0,0"
+       style="opacity:0.647;fill:#655fac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72330576"
        id="path33-3"
        inkscape:connector-curvature="0"
        inkscape:highlight-color="4294967295" />

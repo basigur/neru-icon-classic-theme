@@ -75,19 +75,6 @@
        r="6.3276706"
        gradientTransform="matrix(1.7754884,-0.013369,0.01330633,1.7671737,-10.009805,-14.877876)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter934"
-       x="-0.012"
-       width="1.024"
-       y="-0.012"
-       height="1.024">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.141015"
-         id="feGaussianBlur936" />
-    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -98,17 +85,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="831"
-     inkscape:window-height="685"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="12.6875"
      inkscape:cx="11.387153"
      inkscape:cy="16"
-     inkscape:window-x="734"
-     inkscape:window-y="134"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g843"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
      inkscape:snap-global="true" />
   <g
      id="distributor-logo-rosa"
@@ -116,17 +103,8 @@
     <g
        id="g843">
       <rect
-         style="opacity:0.397;fill:#4b88e8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15876552;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter934)"
-         id="rect4497-3-6-3-3-3"
-         width="28.202999"
-         height="28.202999"
-         x="1.8984997"
-         y="1.8984997"
-         ry="5.5751052"
-         inkscape:highlight-color="1267263743" />
-      <rect
          style="opacity:1;fill:#4b88e8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15876552;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4497-3-6-3-3"
+         id="rect4497"
          width="28.202999"
          height="28.202999"
          x="1.8985004"

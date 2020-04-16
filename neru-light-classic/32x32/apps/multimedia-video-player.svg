@@ -12,7 +12,8 @@
    version="1"
    id="svg24"
    sodipodi:docname="multimedia-video-player.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   enable-background="new">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -25,60 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs28">
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1013"
-       x="-0.012"
-       width="1.024"
-       y="-0.012"
-       height="1.024">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.02"
-         id="feGaussianBlur1015" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1129"
-       x="-0.00675"
-       width="1.0135"
-       y="-0.054"
-       height="1.108">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.045"
-         id="feGaussianBlur1131" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1313"
-       x="-0.0075"
-       width="1.015"
-       y="-0.03"
-       height="1.06">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.025"
-         id="feGaussianBlur1315" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1409"
-       x="-0.012505959"
-       width="1.0250119"
-       y="-0.011533388"
-       height="1.0230668">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.048055595"
-         id="feGaussianBlur1411" />
-    </filter>
-  </defs>
+     id="defs28" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -92,11 +40,11 @@
      inkscape:window-height="655"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="14.78125"
+     inkscape:zoom="12.4375"
      inkscape:cx="16"
      inkscape:cy="16"
-     inkscape:window-x="801"
-     inkscape:window-y="148"
+     inkscape:window-x="524"
+     inkscape:window-y="285"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg24" />
   <path
@@ -110,8 +58,8 @@
      d="m 7.474609,1.8984377 c -3.088651,0 -5.576172,2.4875207 -5.576172,5.5761717 V 21.966797 H 30.101562 V 7.4746094 c 0,-3.088651 -2.485568,-5.5761717 -5.574219,-5.5761717 z"
      id="rect4497-3" />
   <path
-     d="m 12.782374,8.2189614 c -0.24524,-1.3e-4 -0.44409,0.1991 -0.44396,0.44482 v 9.1097996 c -8e-5,0.33795 0.36131,0.55243 0.65706,0.38996 l 8.3346,-4.5549 c 0.30749,-0.16869 0.30749,-0.61122 0,-0.77991 l -7.502,-4.0991996 -0.833,-0.4552 c -0.0653,-0.0359 -0.13859,-0.0548 -0.2131,-0.0548 z"
-     style="fill:#000000;fill-opacity:1;opacity:0.647;filter:url(#filter1409)"
+     d="m 12.88196,8.3190395 c -0.24524,-1.3e-4 -0.44409,0.1991 -0.44396,0.44482 v 9.1097995 c -8e-5,0.33795 0.36131,0.55243 0.65706,0.38996 l 8.3346,-4.5549 c 0.30749,-0.16869 0.30749,-0.61122 0,-0.77991 l -7.502,-4.0991995 -0.833,-0.4552 c -0.0653,-0.0359 -0.13859,-0.0548 -0.2131,-0.0548 z"
+     style="opacity:0.647;fill:#233237;fill-opacity:1"
      id="path20-3-3"
      inkscape:connector-curvature="0" />
   <path
@@ -126,7 +74,7 @@
      y="24.778645"
      x="20.000004"
      id="rect8-6-7"
-     style="fill:#040404;fill-opacity:1;opacity:0.647;filter:url(#filter1313)" />
+     style="opacity:0.647;fill:#040404;fill-opacity:1" />
   <rect
      ry="1"
      height="2"
@@ -142,7 +90,7 @@
      y="24.778645"
      x="3.9999981"
      id="rect10-7-5"
-     style="opacity:0.647;fill:#9ea7a9;fill-opacity:1;filter:url(#filter1129)" />
+     style="opacity:0.647;fill:#9ea7a9;fill-opacity:1" />
   <rect
      ry="1"
      height="2"
@@ -152,15 +100,15 @@
      id="rect10-7"
      style="opacity:0.98999999;fill:#da2570;fill-opacity:1" />
   <circle
-     style="fill:#000000;fill-opacity:1;opacity:0.647;filter:url(#filter1013)"
-     cx="20"
+     style="opacity:1;fill:#ef2078;fill-opacity:1"
+     cx="19.9"
      cy="25.780001"
      r="2"
      id="circle14-5-6" />
   <circle
      style="fill:#da2570;fill-opacity:1"
      cx="19.999998"
-     cy="25.779648"
+     cy="25.780001"
      r="2"
      id="circle14-5" />
 </svg>
