@@ -13,7 +13,7 @@
    version="1"
    id="svg14"
    sodipodi:docname="folder-brown.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,19 +83,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-height="1027"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="23.90625"
      inkscape:cx="16"
      inkscape:cy="16"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g872"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     inkscape:document-rotation="0" />
   <g
      id="g872"
      transform="matrix(1.0000063,0,0,1.0352793,28.578472,14.980279)">
@@ -129,7 +130,7 @@
     <path
        inkscape:connector-curvature="0"
        d="m -16.431455,-12.403521 c 2.390854,0 3.166876,1.884805 4.394951,3.7670978 h 11.45825471 c 1.73914199,0 3.13924799,1.4001052 3.13924799,3.1392492 v 1.2557 10.6734437 1.883548 1.098738 0.156969 c -0.0076,0.174536 -0.0452,0.344062 -0.07911,0.5098153 -0.149433,0.867687 -0.644173,1.60855 -1.373736,2.079436 -0.34782799,0.224771 -0.74965099,0.388013 -1.17784499,0.470888 -0.213465,0.04394 -0.400563,0.07911 -0.627846,0.07911 H -24.321014 c -0.227282,0 -0.41438,-0.03389 -0.62785,-0.07911 -0.426937,-0.08288 -0.828761,-0.246117 -1.176591,-0.470888 -0.72956,-0.470886 -1.22305,-1.211749 -1.373733,-2.079436 -0.03389,-0.1657433 -0.07032,-0.3365283 -0.07911,-0.5098153 V 9.4142557 8.3155177 -9.1073111 c 0,-1.8358329 1.442798,-3.2962099 3.257284,-3.2962099 h 7.887047 z"
-       style="opacity:1;fill:url(#linearGradient975);fill-opacity:1;stroke:#dbd4c9;stroke-width:0.09828107;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:url(#linearGradient975);fill-opacity:1;stroke:#907d53;stroke-width:0.09828107;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path25" />
   </g>
 </svg>
