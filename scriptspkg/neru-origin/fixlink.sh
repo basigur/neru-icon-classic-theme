@@ -628,6 +628,7 @@ link_prepare() {
     ln -s preferences-system-network.svg neru-classic-light/32x32/apps/yast-device-tree.svg
     ln -s preferences-desktop-user-password.svg neru-classic-light/32x32/apps/yast-kerberos.svg
     ln -s krfb.svg neru-classic-light/32x32/apps/yast-ldap-server.svg
+    ln -s preferences-system-notifications.svg neru-classic-light/32x32/apps/org.xfce.notification.svg
     
     ln -s application-pkix-cert.svg neru-classic-light/32x32/mimetypes/application-certificate.svg
     ln -s x-office-document.svg neru-classic-light/32x32/mimetypes/application-vnd.google-apps.document.svg
