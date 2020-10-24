@@ -5,14 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1"
    width="32"
    height="32"
-   id="svg12"
-   sodipodi:docname="bitwarden.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   id="svg12">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -21,35 +17,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs16" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1755"
-     inkscape:window-height="1014"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="17.257743"
-     inkscape:cx="10.418014"
-     inkscape:cy="16.035935"
-     inkscape:window-x="586"
-     inkscape:window-y="536"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg12"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:document-rotation="0" />
   <rect
      style="opacity:1;fill:#175ddc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03534329;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect4497-3"
