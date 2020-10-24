@@ -34,6 +34,7 @@ link_prepare() {
     ln -s preferences-desktop-color.svg neru-classic-light/32x32/apps/package_graphics.svg
     ln -s electron.svg neru-classic-light/32x32/apps/electron4.svg
     ln -s electron.svg neru-classic-light/32x32/apps/electron6.svg
+    ln -s electron.svg neru-classic-light/32x32/apps/electron9.svg
     ln -s wps-office-wpsmain.svg neru-classic-light/32x32/apps/com.wps.Office2019.wpsmain.svg
     ln -s wps-office-wppmain.svg neru-classic-light/32x32/apps/com.wps.Office2019.wppmain.svg
     ln -s wps-office-wpsmain.svg neru-classic-light/32x32/apps/com.wps.Office.wpsmain.svg
@@ -630,6 +631,8 @@ link_prepare() {
     ln -s krfb.svg neru-classic-light/32x32/apps/yast-ldap-server.svg
     ln -s preferences-system-notifications.svg neru-classic-light/32x32/apps/org.xfce.notification.svg
     ln -s accessories-dictionary.svg neru-classic-light/32x32/apps/org.xfce.Dictionary.svg
+    ln -s flameshot.svg neru-classic-light/32x32/apps/org.flameshot.Flameshot.svg
+    
     
     ln -s application-pkix-cert.svg neru-classic-light/32x32/mimetypes/application-certificate.svg
     ln -s x-office-document.svg neru-classic-light/32x32/mimetypes/application-vnd.google-apps.document.svg
