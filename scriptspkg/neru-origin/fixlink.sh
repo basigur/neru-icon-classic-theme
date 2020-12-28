@@ -702,6 +702,40 @@ link_prepare() {
     ln -s x-office-document.svg neru-classic-light/32x32/mimetypes/x-office-document-template.svg
     ln -s x-office-presentation.svg neru-classic-light/32x32/mimetypes/x-office-presentation-template.svg
     ln -s x-office-spreadsheet.svg neru-classic-light/32x32/mimetypes/x-office-spreadsheet-template.svg
+    
+    ln -s kmenuedit.svg neru-classic-light/32x32/apps/org.xfce.garcon.svg
+
+    ln -s cutecom.svg neru-classic-light/32x32/apps/org.xfce.volman.svg
+
+    ln -s desktop-environment-xfce.svg neru-classic-light/32x32/apps/org.xfce.about.svg
+
+    ln -s preferences-system-search.svg neru-classic-light/32x32/apps/org.xfce.appfinder.svg
+    ln -s internet-mail.svg neru-classic-light/32x32/apps/org.xfce.mailreader.svg
+    ln -s cs-panel.svg neru-classic-light/32x32/apps/org.xfce.panel.svg
+    ln -s system-file-manager.svg neru-classic-light/32x32/apps/org.xfce.thunar.svg
+    ln -s preferences-desktop-color.svg neru-classic-light/32x32/apps/org.xfce.settings.color.svg
+    ln -s system-file-manager.svg neru-classic-light/32x32/apps/org.xfce.filemanager.svg
+    ln -s preferences-system-power.svg neru-classic-light/32x32/apps/org.xfce.powermanager.svg
+    ln -s preferences-desktop-display.svg neru-classic-light/32x32/apps/org.xfce.settings.display.svg
+    ln -s utilities-tweak-tool.svg neru-classic-light/32x32/apps/org.xfce.settings.manager.svg
+    ln -s gnome-tweak-tool.svg neru-classic-light/32x32/apps/org.xfce.xfwm4-tweaks.svg
+    ln -s workspace-switcher-left-bottom.svg neru-classic-light/32x32/apps/org.xfce.workspaces.svg
+    ln -s applets-screenshooter.svg neru-classic-light/32x32/apps/org.xfce.screenshooter.svg
+    ln -s utilities-terminal.svg neru-classic-light/32x32/apps/org.xfce.terminal.svg
+    ln -s utilities-terminal.svg neru-classic-light/32x32/apps/org.xfce.terminalemulator.svg
+    ln -s utilities-terminal.svg neru-classic-light/32x32/apps/org.xfce.terminal-settings.svg
+    
+    ln -s Xfwm4CompositeEditor.svg neru-classic-light/32x32/apps/org.xfce.settings.editor.svg
+    ln -s internet-web-browser.svg neru-classic-light/32x32/apps/org.xfce.webbrowser.svg
+    ln -s cs-desktop.svg neru-classic-light/32x32/apps/org.xfce.xfdesktop.svg
+    ln -s gdm-xnest.svg neru-classic-light/32x32/apps/org.xfce.xfwm4.svg
+    ln -s ktouch.svg neru-classic-light/32x32/apps/org.xfce.settings.keyboard.svg
+    ln -s preferences-desktop-peripherals.svg neru-classic-light/32x32/apps/org.xfce.settings.mouse.svg
+    ln -s system-shutdown.svg neru-classic-light/32x32/apps/org.xfce.session.svg
+    ln -s preferences-desktop-theme.svg neru-classic-light/32x32/apps/org.xfce.settings.appearance.svg
+    ln -s preferences-desktop-default-applications.svg neru-classic-light/32x32/apps/org.xfce.settings.default-applications.svg
+    ln -s preferences-desktop-accessibility.svg neru-classic-light/32x32/apps/org.xfce.settings.accessibility.svg
+    ln -s accessories-text-editor.svg neru-classic-light/32x32/apps/org.xfce.mousepad.svg
     echo -e "\033[1;35mf\033[1;35mi\033[1;35mx \033[1;34mL\033[1;34mI\033[1;34mN\033[1;34mK\033[0m"
 }
 link_prepare
