@@ -736,6 +736,17 @@ link_prepare() {
     ln -s preferences-desktop-default-applications.svg neru-classic-light/32x32/apps/org.xfce.settings.default-applications.svg
     ln -s preferences-desktop-accessibility.svg neru-classic-light/32x32/apps/org.xfce.settings.accessibility.svg
     ln -s accessories-text-editor.svg neru-classic-light/32x32/apps/org.xfce.mousepad.svg
+    
+    ln -s window-close.svg neru-classic-light/22x22/actions/xfce-wm-close.svg
+    ln -s window-minimize.svg neru-classic-light/22x22/actions/xfce-wm-minimize.svg
+    ln -s xfce-wm-maximize.svg neru-classic-light/22x22/actions/xfce-wm-unmaximize.svg
+
+    ln -s window-close.svg neru-classic-dark/22x22/actions/xfce-wm-close.svg
+    ln -s window-minimize.svg neru-classic-dark/22x22/actions/xfce-wm-minimize.svg
+    ln -s xfce-wm-maximize.svg neru-classic-dark/22x22/actions/xfce-wm-unmaximize.svg
+    
+    ln -s system-switch-user.svg neru-classic-light/32x32/apps/xfsm-switch-user.svg
+    ln -s system-lock-screen.svg neru-classic-light/32x32/apps/xfsm-lock.svg
     echo -e "\033[1;35mf\033[1;35mi\033[1;35mx \033[1;34mL\033[1;34mI\033[1;34mN\033[1;34mK\033[0m"
 }
 link_prepare
