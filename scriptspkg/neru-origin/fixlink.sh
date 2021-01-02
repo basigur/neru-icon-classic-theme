@@ -707,7 +707,7 @@ link_prepare() {
 
     ln -s cutecom.svg neru-classic-light/32x32/apps/org.xfce.volman.svg
 
-    ln -s desktop-environment-xfce.svg neru-classic-light/32x32/apps/org.xfce.about.svg
+    ln -s system-help.svg neru-classic-light/32x32/apps/org.xfce.about.svg
 
     ln -s preferences-system-search.svg neru-classic-light/32x32/apps/org.xfce.appfinder.svg
     ln -s internet-mail.svg neru-classic-light/32x32/apps/org.xfce.mailreader.svg
@@ -747,6 +747,20 @@ link_prepare() {
     
     ln -s system-switch-user.svg neru-classic-light/32x32/apps/xfsm-switch-user.svg
     ln -s system-lock-screen.svg neru-classic-light/32x32/apps/xfsm-lock.svg
+    
+    ln -s applications-utilities.svg neru-classic-light/32x32/apps/org.xfce.taskmanager.svg
+    ln -s builder.svg neru-classic-light/32x32/apps/applications-engineering.svg
+    ln -s xfce4-systray.svg neru-classic-light/32x32/apps/org.xfce.panel.statustray.svg
+    ln -s preferences-desktop-launch-feedback.svg neru-classic-light/32x32/apps/org.xfce.panel.launcher.svg
+    ln -s ../devices/battery.svg neru-classic-light/32x32/apps/xfce4-battery-plugin.svg
+    ln -s ../places/folder.svg neru-classic-light/32x32/apps/org.xfce.panel.directorymenu.svg
+    ln -s workspace-switcher-left-bottom.svg neru-classic-light/32x32/apps/org.xfce.panel.pager.svg
+    ln -s cs-desktop.svg neru-classic-light/32x32/apps/org.xfce.panel.showdesktop.svg
+    ln -s preferences-system-time.svg neru-classic-light/32x32/apps/org.xfce.panel.clock.svg
+    ln -s menulibre.svg neru-classic-light/32x32/apps/org.xfce.panel.windowmenu.svg
+    ln -s xfce4-taskbar.svg neru-classic-light/32x32/apps/org.xfce.panel.tasklist.svg
+    
+    ln -s mate-panel-separator.svg neru-classic-light/32x32/apps/org.xfce.panel.separator.svg
     echo -e "\033[1;35mf\033[1;35mi\033[1;35mx \033[1;34mL\033[1;34mI\033[1;34mN\033[1;34mK\033[0m"
 }
 link_prepare
