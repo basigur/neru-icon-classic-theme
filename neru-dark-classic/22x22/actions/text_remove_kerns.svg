@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#3fb7ff; }
-  </style>
- </defs>
- <g transform="translate(3,3)">
-  <path style="fill:currentColor;opacity:0.3" class="ColorScheme-Text" d="M 3,3 0,11 H 1 L 1.77,9 H 5.23 L 6,11 H 7 L 4,3 Z M 3.5,4.5 4.846,8 H 2.154 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 10,10 V 11.414 L 11.586,13 10,14.586 V 16 H 11.414 L 13,14.414 14.586,16 H 16 V 14.586 L 14.414,13 16,11.414 V 10 H 14.586 L 13,11.586 11.414,10 Z M 8,1 V 12 H 0 V 13 H 9 V 1 Z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#d3dae3}</style></defs><path class="ColorScheme-Text" d="M6 6l-3 8h1l.77-2h3.46L9 14h1L7 6zm.5 1.5L7.846 11H5.154z" fill="currentColor" opacity=".3"/><path class="ColorScheme-Text" d="M13 13v1.414L14.586 16 13 17.586V19h1.414L16 17.414 17.586 19H19v-1.414L17.414 16 19 14.414V13h-1.414L16 14.586 14.414 13zm-2-9v11H3v1h9V4z" fill="currentColor"/></svg>
